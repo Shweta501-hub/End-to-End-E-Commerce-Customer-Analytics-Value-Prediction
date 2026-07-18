@@ -1,0 +1,996 @@
+customer_id,Recency,Frequency,Monetary,sign_up_date,age,region,acquisition_channel,Cluster,Segment
+1,50,1,319.47,2025-11-22,38,North America,Instagram Ad,0,At Risk / Churned
+2,113,7,8193.14,2025-03-15,32,Europe,Facebook Ad,1,Champions / VIPs
+3,1,6,5809.04,2025-08-11,53,Europe,Facebook Ad,3,Loyal / Regular
+4,20,2,590.04,2025-04-24,22,North America,Email Campaign,0,At Risk / Churned
+5,51,10,9658.460000000001,2025-02-24,36,Latin America,Instagram Ad,1,Champions / VIPs
+6,41,6,4524.44,2025-05-15,46,Latin America,Google Search,3,Loyal / Regular
+7,154,2,974.6,2025-08-16,58,Asia-Pacific,Google Search,2,Active - Low Spend
+8,37,3,1247.8999999999999,2025-10-05,42,Asia-Pacific,Referral,0,At Risk / Churned
+9,23,7,7050.749999999999,2026-03-10,58,Europe,Referral,1,Champions / VIPs
+10,229,5,7708.639999999999,2025-01-31,53,Asia-Pacific,Email Campaign,2,Active - Low Spend
+11,60,5,4275.59,2025-11-26,23,Latin America,Referral,3,Loyal / Regular
+12,41,5,6498.76,2025-12-11,38,Latin America,Email Campaign,3,Loyal / Regular
+13,8,11,11854.23,2026-01-10,46,North America,Referral,1,Champions / VIPs
+14,6,12,10203.380000000001,2025-05-13,43,North America,Google Search,1,Champions / VIPs
+15,82,5,7707.65,2025-05-16,71,Latin America,Facebook Ad,3,Loyal / Regular
+16,49,2,2700.7200000000003,2025-08-18,23,North America,Instagram Ad,0,At Risk / Churned
+17,42,5,2638.58,2026-02-27,59,North America,Facebook Ad,3,Loyal / Regular
+18,21,6,3726.0800000000004,2025-05-29,58,Asia-Pacific,Direct Link,3,Loyal / Regular
+19,32,3,3612.83,2025-02-18,43,North America,Facebook Ad,0,At Risk / Churned
+20,1,9,7155.659999999999,2026-03-30,43,North America,Email Campaign,1,Champions / VIPs
+21,35,6,2881.1899999999996,2025-03-03,36,North America,Direct Link,3,Loyal / Regular
+22,249,5,4113.52,2025-01-03,39,Asia-Pacific,Instagram Ad,2,Active - Low Spend
+23,108,5,2853.71,2025-02-04,23,Latin America,Instagram Ad,0,At Risk / Churned
+24,57,4,4462.42,2026-01-09,27,Europe,Facebook Ad,3,Loyal / Regular
+25,1,7,6436.639999999999,2026-02-16,30,Europe,Referral,3,Loyal / Regular
+26,15,6,5308.9,2025-04-28,28,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+27,165,4,2990.48,2025-01-08,66,Latin America,Direct Link,2,Active - Low Spend
+28,7,8,9979.69,2026-02-06,42,Asia-Pacific,Direct Link,1,Champions / VIPs
+29,15,4,1994.1599999999999,2025-08-30,66,Asia-Pacific,Instagram Ad,0,At Risk / Churned
+30,6,3,2400.09,2025-07-22,33,Latin America,Google Search,0,At Risk / Churned
+31,40,7,6312.1900000000005,2025-05-23,49,North America,Instagram Ad,3,Loyal / Regular
+32,45,6,4260.55,2025-09-07,40,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+33,75,10,4661.75,2025-02-16,56,Asia-Pacific,Google Search,1,Champions / VIPs
+34,25,5,7925.17,2025-10-16,67,Asia-Pacific,Referral,3,Loyal / Regular
+36,33,7,7541.599999999999,2025-01-29,33,Latin America,Email Campaign,1,Champions / VIPs
+37,36,5,6018.549999999999,2025-01-24,60,Asia-Pacific,Email Campaign,3,Loyal / Regular
+38,9,6,4026.06,2025-10-01,74,North America,Email Campaign,3,Loyal / Regular
+39,109,8,4738.73,2025-05-27,39,Europe,Google Search,3,Loyal / Regular
+40,1,11,8221.18,2025-11-21,43,North America,Google Search,1,Champions / VIPs
+41,48,3,6731.44,2025-03-16,39,North America,Google Search,3,Loyal / Regular
+42,53,3,2799.96,2025-03-07,32,Asia-Pacific,Email Campaign,0,At Risk / Churned
+43,12,11,11845.16,2026-04-01,56,Europe,Direct Link,1,Champions / VIPs
+44,52,3,3330.13,2026-03-16,74,Europe,Google Search,0,At Risk / Churned
+45,44,3,3195.4900000000002,2026-01-20,49,Latin America,Facebook Ad,0,At Risk / Churned
+46,95,11,11628.53,2025-04-29,34,Asia-Pacific,Direct Link,1,Champions / VIPs
+47,13,4,2403.67,2025-02-02,47,North America,Google Search,0,At Risk / Churned
+48,114,3,2583.0299999999997,2025-01-20,41,North America,Google Search,0,At Risk / Churned
+49,62,4,3553.4300000000003,2025-12-17,72,Asia-Pacific,Facebook Ad,0,At Risk / Churned
+50,26,5,5718.710000000001,2025-12-20,41,Europe,Google Search,3,Loyal / Regular
+51,36,6,5622.929999999999,2025-12-31,52,North America,Facebook Ad,3,Loyal / Regular
+52,16,4,3769.94,2025-02-17,55,Asia-Pacific,Direct Link,3,Loyal / Regular
+53,7,6,1812.4299999999998,2025-02-16,19,Latin America,Facebook Ad,3,Loyal / Regular
+54,11,6,8706.6,2026-01-21,66,Latin America,Direct Link,1,Champions / VIPs
+55,152,1,1444.52,2025-01-11,32,North America,Referral,2,Active - Low Spend
+56,4,6,8004.88,2025-06-28,66,Latin America,Direct Link,1,Champions / VIPs
+57,9,6,8215.55,2025-12-18,63,Asia-Pacific,Email Campaign,1,Champions / VIPs
+58,4,5,3158.3100000000004,2026-01-05,21,Latin America,Instagram Ad,3,Loyal / Regular
+59,35,7,4508.43,2025-03-19,27,Latin America,Email Campaign,3,Loyal / Regular
+60,15,8,12230.35,2026-02-03,44,Asia-Pacific,Instagram Ad,1,Champions / VIPs
+61,50,5,2920.13,2026-01-30,52,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+62,34,7,6996.61,2025-02-01,50,Latin America,Facebook Ad,1,Champions / VIPs
+63,78,4,5132.67,2026-02-26,53,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+64,1,8,13194.21,2025-10-06,32,North America,Instagram Ad,1,Champions / VIPs
+65,314,4,3982.13,2025-02-26,24,Europe,Direct Link,2,Active - Low Spend
+66,9,5,5697.53,2025-05-28,50,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+67,160,2,1876.67,2025-01-09,40,Latin America,Referral,2,Active - Low Spend
+68,31,7,5402.47,2025-07-30,55,Asia-Pacific,Direct Link,3,Loyal / Regular
+69,35,3,2860.2799999999997,2025-12-01,60,Europe,Google Search,0,At Risk / Churned
+70,1,9,5992.94,2025-08-28,69,Asia-Pacific,Referral,1,Champions / VIPs
+71,24,7,3667.8,2026-03-17,68,Europe,Direct Link,3,Loyal / Regular
+72,84,7,4596.57,2025-03-16,57,North America,Direct Link,3,Loyal / Regular
+73,126,3,1547.3400000000001,2025-07-20,71,Latin America,Email Campaign,0,At Risk / Churned
+74,18,7,8503.92,2025-06-22,29,Latin America,Referral,1,Champions / VIPs
+75,19,7,4463.42,2026-03-18,35,North America,Facebook Ad,3,Loyal / Regular
+76,1,7,6514.919999999999,2026-04-01,20,North America,Referral,3,Loyal / Regular
+77,28,2,3927.91,2025-03-14,59,Asia-Pacific,Instagram Ad,0,At Risk / Churned
+78,10,10,10022.74,2026-02-22,37,Asia-Pacific,Email Campaign,1,Champions / VIPs
+79,15,5,4641.24,2025-09-04,47,Latin America,Google Search,3,Loyal / Regular
+80,41,5,3631.8899999999994,2025-01-25,43,North America,Email Campaign,3,Loyal / Regular
+81,40,4,3813.32,2025-06-05,32,Asia-Pacific,Google Search,0,At Risk / Churned
+82,20,5,5527.389999999999,2026-03-18,30,Latin America,Direct Link,3,Loyal / Regular
+83,104,5,3679.58,2025-03-16,56,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+84,147,3,3348.38,2025-02-11,45,Asia-Pacific,Email Campaign,2,Active - Low Spend
+85,20,7,6988.9,2025-01-15,32,Latin America,Facebook Ad,1,Champions / VIPs
+86,66,7,3693.4100000000003,2025-08-15,20,Europe,Google Search,3,Loyal / Regular
+87,21,8,6966.56,2025-03-21,32,Asia-Pacific,Instagram Ad,1,Champions / VIPs
+88,5,7,4256.0,2025-11-06,44,Latin America,Google Search,3,Loyal / Regular
+89,9,6,2406.86,2026-02-28,56,Latin America,Google Search,3,Loyal / Regular
+90,21,4,4196.32,2025-06-22,45,North America,Email Campaign,3,Loyal / Regular
+91,81,6,5064.209999999999,2025-01-13,61,Europe,Direct Link,3,Loyal / Regular
+92,84,4,9124.77,2025-06-29,75,North America,Direct Link,3,Loyal / Regular
+93,26,4,3139.77,2025-06-26,24,North America,Google Search,0,At Risk / Churned
+94,34,6,6508.099999999999,2025-05-29,50,North America,Referral,3,Loyal / Regular
+95,64,8,3870.46,2025-05-08,58,Latin America,Google Search,3,Loyal / Regular
+96,45,4,4067.29,2025-05-05,50,North America,Direct Link,3,Loyal / Regular
+97,44,6,5264.13,2026-01-04,48,Europe,Google Search,3,Loyal / Regular
+98,19,11,8374.4,2025-07-20,56,North America,Referral,1,Champions / VIPs
+99,5,9,11931.74,2025-06-30,68,Latin America,Direct Link,1,Champions / VIPs
+100,71,3,1323.4099999999999,2025-05-21,28,Latin America,Instagram Ad,0,At Risk / Churned
+101,6,6,5730.75,2026-03-02,73,Asia-Pacific,Direct Link,3,Loyal / Regular
+102,57,5,3979.23,2025-02-10,31,Europe,Direct Link,3,Loyal / Regular
+103,84,5,5206.4,2025-08-06,30,Europe,Email Campaign,3,Loyal / Regular
+104,49,4,3038.14,2025-03-02,46,Latin America,Instagram Ad,0,At Risk / Churned
+105,2,7,9248.69,2025-08-24,44,Latin America,Facebook Ad,1,Champions / VIPs
+106,132,1,668.07,2025-05-04,20,Europe,Instagram Ad,0,At Risk / Churned
+107,1,8,13999.59,2025-08-14,73,Asia-Pacific,Google Search,1,Champions / VIPs
+108,7,4,5047.92,2025-11-20,51,Europe,Referral,3,Loyal / Regular
+109,15,3,2471.33,2025-12-27,47,Latin America,Direct Link,0,At Risk / Churned
+110,8,12,9179.69,2025-11-15,23,Asia-Pacific,Referral,1,Champions / VIPs
+111,83,4,4459.5599999999995,2025-12-14,35,Europe,Google Search,3,Loyal / Regular
+112,177,2,1080.9299999999998,2025-05-17,54,Latin America,Google Search,2,Active - Low Spend
+113,116,3,1548.38,2025-06-21,36,Europe,Referral,0,At Risk / Churned
+114,63,4,5578.92,2026-01-26,44,North America,Email Campaign,3,Loyal / Regular
+115,14,6,7744.719999999999,2026-01-04,32,Europe,Referral,1,Champions / VIPs
+116,72,4,6835.86,2025-01-31,71,Latin America,Google Search,3,Loyal / Regular
+117,4,5,2465.46,2025-09-24,19,Asia-Pacific,Direct Link,3,Loyal / Regular
+118,13,5,3991.51,2025-12-19,68,Latin America,Referral,3,Loyal / Regular
+119,21,10,7904.619999999999,2025-09-08,58,North America,Instagram Ad,1,Champions / VIPs
+120,9,7,5150.87,2026-02-12,29,Latin America,Email Campaign,3,Loyal / Regular
+121,29,6,4988.8099999999995,2026-01-01,47,Asia-Pacific,Email Campaign,3,Loyal / Regular
+122,24,3,4256.31,2025-12-25,74,Latin America,Email Campaign,0,At Risk / Churned
+123,23,4,4064.28,2025-06-14,47,Europe,Email Campaign,3,Loyal / Regular
+124,76,6,5207.78,2025-06-26,38,Asia-Pacific,Referral,3,Loyal / Regular
+125,69,8,5217.52,2025-04-09,32,Latin America,Referral,3,Loyal / Regular
+126,70,2,645.65,2025-01-01,52,Europe,Facebook Ad,0,At Risk / Churned
+127,9,5,3003.42,2025-12-06,70,Latin America,Google Search,3,Loyal / Regular
+128,27,2,1513.4700000000003,2025-10-05,41,North America,Email Campaign,0,At Risk / Churned
+129,103,7,5506.8,2025-06-12,61,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+130,9,6,9502.42,2025-12-04,26,Europe,Facebook Ad,1,Champions / VIPs
+131,120,3,5039.2,2025-07-18,25,North America,Facebook Ad,0,At Risk / Churned
+132,91,3,1887.3,2025-09-25,59,Latin America,Referral,0,At Risk / Churned
+133,134,4,1355.54,2025-10-24,36,Asia-Pacific,Google Search,0,At Risk / Churned
+134,102,7,8913.06,2025-04-10,41,Latin America,Referral,1,Champions / VIPs
+135,232,5,5590.34,2025-05-26,65,Asia-Pacific,Google Search,2,Active - Low Spend
+136,20,5,3708.98,2025-03-14,25,Latin America,Google Search,3,Loyal / Regular
+137,8,8,6476.15,2025-03-26,63,Latin America,Direct Link,1,Champions / VIPs
+138,15,4,5024.740000000001,2025-04-08,71,Asia-Pacific,Referral,3,Loyal / Regular
+139,1,3,2286.83,2025-12-31,59,Latin America,Instagram Ad,0,At Risk / Churned
+140,8,5,4981.24,2025-06-16,43,Latin America,Facebook Ad,3,Loyal / Regular
+141,19,9,9479.2,2026-03-29,38,Europe,Direct Link,1,Champions / VIPs
+142,10,4,1329.4599999999998,2025-05-18,66,Latin America,Direct Link,0,At Risk / Churned
+143,19,6,3479.55,2026-03-10,28,Europe,Direct Link,3,Loyal / Regular
+144,89,4,5531.65,2025-12-19,65,Latin America,Referral,3,Loyal / Regular
+145,53,7,5130.16,2025-11-22,39,Asia-Pacific,Direct Link,3,Loyal / Regular
+146,189,3,2049.99,2025-01-09,35,Asia-Pacific,Direct Link,2,Active - Low Spend
+147,15,5,3734.98,2025-10-16,18,Europe,Direct Link,3,Loyal / Regular
+148,10,6,3302.3199999999997,2025-01-02,74,Asia-Pacific,Referral,3,Loyal / Regular
+149,1,4,1655.23,2025-12-20,22,Asia-Pacific,Google Search,0,At Risk / Churned
+150,7,8,7445.56,2025-09-28,61,Europe,Instagram Ad,1,Champions / VIPs
+151,49,5,3388.75,2025-03-07,58,Asia-Pacific,Direct Link,3,Loyal / Regular
+152,36,4,3914.1,2026-01-17,23,Latin America,Direct Link,0,At Risk / Churned
+153,119,4,5943.36,2025-03-17,73,Asia-Pacific,Google Search,3,Loyal / Regular
+154,69,4,2189.1400000000003,2025-11-08,74,Asia-Pacific,Direct Link,0,At Risk / Churned
+155,35,4,6503.21,2025-07-25,30,Europe,Facebook Ad,3,Loyal / Regular
+156,22,8,9054.97,2025-09-03,30,Europe,Email Campaign,1,Champions / VIPs
+157,18,4,1494.24,2025-11-06,51,Europe,Email Campaign,0,At Risk / Churned
+158,34,6,3510.15,2025-11-09,20,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+160,28,6,6899.7300000000005,2025-02-26,67,Latin America,Facebook Ad,3,Loyal / Regular
+161,6,6,4019.24,2026-02-21,57,Europe,Email Campaign,3,Loyal / Regular
+162,65,3,1692.84,2025-12-29,42,North America,Instagram Ad,0,At Risk / Churned
+163,4,2,2415.67,2026-01-18,47,Asia-Pacific,Google Search,0,At Risk / Churned
+164,108,5,3890.05,2025-12-30,75,Latin America,Direct Link,3,Loyal / Regular
+165,82,6,5080.9,2025-08-23,70,North America,Direct Link,3,Loyal / Regular
+166,26,8,6876.61,2025-12-18,65,Asia-Pacific,Instagram Ad,1,Champions / VIPs
+167,1,8,4106.29,2026-01-27,56,Latin America,Direct Link,3,Loyal / Regular
+168,50,8,4430.77,2025-08-22,62,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+169,25,4,2989.36,2025-03-29,70,Latin America,Direct Link,0,At Risk / Churned
+170,1,6,5917.549999999999,2025-12-09,60,Europe,Instagram Ad,3,Loyal / Regular
+171,4,11,8544.26,2026-03-27,70,Latin America,Email Campaign,1,Champions / VIPs
+172,60,4,2243.71,2025-09-14,52,North America,Instagram Ad,0,At Risk / Churned
+173,12,2,1242.8899999999999,2025-01-26,55,North America,Instagram Ad,0,At Risk / Churned
+174,29,6,2992.24,2025-04-23,56,Latin America,Google Search,3,Loyal / Regular
+175,135,5,4916.65,2025-04-25,70,Asia-Pacific,Referral,3,Loyal / Regular
+176,6,6,7061.8099999999995,2025-10-24,69,North America,Instagram Ad,3,Loyal / Regular
+177,12,5,5064.6,2026-03-23,23,Latin America,Facebook Ad,3,Loyal / Regular
+178,23,6,6061.84,2025-12-04,22,North America,Instagram Ad,3,Loyal / Regular
+179,25,5,7657.6,2025-02-05,56,North America,Facebook Ad,3,Loyal / Regular
+180,114,6,5898.11,2025-07-26,59,Europe,Instagram Ad,3,Loyal / Regular
+181,12,5,4158.95,2026-04-01,27,Latin America,Google Search,3,Loyal / Regular
+182,6,3,3236.6099999999997,2025-10-26,39,Europe,Referral,0,At Risk / Churned
+183,34,5,5165.699999999999,2025-11-02,19,Asia-Pacific,Direct Link,3,Loyal / Regular
+184,200,3,1814.8700000000001,2025-04-28,45,Europe,Direct Link,2,Active - Low Spend
+185,8,6,7997.749999999999,2025-07-02,32,Asia-Pacific,Email Campaign,1,Champions / VIPs
+186,221,4,2384.22,2025-04-12,69,Asia-Pacific,Instagram Ad,2,Active - Low Spend
+187,24,6,6378.14,2025-05-27,27,Latin America,Google Search,3,Loyal / Regular
+188,121,5,3988.25,2025-05-03,55,North America,Google Search,3,Loyal / Regular
+189,124,6,2820.44,2025-06-28,70,Asia-Pacific,Direct Link,3,Loyal / Regular
+190,12,7,5868.84,2025-03-20,71,North America,Direct Link,3,Loyal / Regular
+191,11,5,3604.74,2026-02-25,37,Europe,Facebook Ad,3,Loyal / Regular
+192,82,4,5587.08,2025-04-18,43,Asia-Pacific,Referral,3,Loyal / Regular
+193,4,7,8456.33,2025-04-20,45,North America,Email Campaign,1,Champions / VIPs
+194,20,2,2042.48,2026-03-31,71,Asia-Pacific,Email Campaign,0,At Risk / Churned
+195,27,3,1091.38,2025-12-15,22,Latin America,Instagram Ad,0,At Risk / Churned
+196,43,2,3931.04,2026-01-28,26,Latin America,Facebook Ad,0,At Risk / Churned
+197,29,6,5754.700000000001,2025-10-17,66,Asia-Pacific,Email Campaign,3,Loyal / Regular
+198,104,4,2882.92,2025-09-10,21,North America,Google Search,0,At Risk / Churned
+199,97,4,2887.4500000000003,2025-03-13,72,Latin America,Direct Link,0,At Risk / Churned
+200,91,4,1920.96,2025-02-19,48,North America,Instagram Ad,0,At Risk / Churned
+201,41,3,2915.92,2025-05-09,31,Europe,Google Search,0,At Risk / Churned
+202,47,7,3963.94,2026-02-06,75,Latin America,Instagram Ad,3,Loyal / Regular
+203,116,6,4347.94,2025-05-07,23,North America,Facebook Ad,3,Loyal / Regular
+204,27,2,2401.75,2025-12-19,48,Asia-Pacific,Email Campaign,0,At Risk / Churned
+205,74,6,4447.53,2025-01-11,60,North America,Referral,3,Loyal / Regular
+206,39,4,2018.33,2025-01-18,29,Asia-Pacific,Direct Link,0,At Risk / Churned
+207,30,7,4099.27,2025-03-03,35,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+208,1,5,8164.41,2026-01-24,25,Latin America,Email Campaign,3,Loyal / Regular
+209,511,1,1861.95,2025-01-28,34,Asia-Pacific,Email Campaign,2,Active - Low Spend
+210,1,8,6958.75,2025-01-11,62,North America,Facebook Ad,1,Champions / VIPs
+211,44,7,8006.54,2025-06-28,46,Latin America,Instagram Ad,1,Champions / VIPs
+212,9,6,7566.88,2025-08-09,49,Latin America,Email Campaign,3,Loyal / Regular
+213,31,5,5644.32,2025-12-18,75,Asia-Pacific,Google Search,3,Loyal / Regular
+214,49,3,2000.7099999999998,2026-02-02,46,Latin America,Direct Link,0,At Risk / Churned
+215,341,1,546.43,2025-05-22,65,North America,Direct Link,2,Active - Low Spend
+216,2,5,2430.33,2025-12-30,51,Europe,Direct Link,3,Loyal / Regular
+217,145,4,3199.5,2025-05-24,53,Latin America,Google Search,2,Active - Low Spend
+218,92,1,1125.3300000000002,2025-08-01,24,Europe,Facebook Ad,0,At Risk / Churned
+219,38,9,7035.52,2025-10-01,75,Latin America,Email Campaign,1,Champions / VIPs
+220,50,2,617.08,2025-11-14,48,Latin America,Google Search,0,At Risk / Churned
+221,9,8,8681.02,2025-11-02,39,Latin America,Referral,1,Champions / VIPs
+222,1,7,4575.88,2025-06-06,19,Latin America,Instagram Ad,3,Loyal / Regular
+223,39,4,3042.27,2025-01-12,53,Asia-Pacific,Instagram Ad,0,At Risk / Churned
+224,93,2,1765.17,2026-01-28,61,Asia-Pacific,Referral,0,At Risk / Churned
+225,52,6,5136.6,2025-07-29,75,Latin America,Email Campaign,3,Loyal / Regular
+226,21,2,954.73,2026-03-31,25,Asia-Pacific,Instagram Ad,0,At Risk / Churned
+227,13,8,6445.719999999999,2025-03-09,53,Latin America,Facebook Ad,1,Champions / VIPs
+228,25,6,3525.78,2025-05-11,53,Latin America,Google Search,3,Loyal / Regular
+229,39,9,7570.13,2025-01-13,71,Europe,Facebook Ad,1,Champions / VIPs
+230,3,4,4152.509999999999,2025-09-28,21,Latin America,Google Search,3,Loyal / Regular
+231,112,10,10940.5,2025-03-23,36,Europe,Email Campaign,1,Champions / VIPs
+232,17,5,3835.41,2025-05-05,46,Europe,Referral,3,Loyal / Regular
+233,99,5,2568.65,2025-01-07,55,Europe,Google Search,0,At Risk / Churned
+234,58,7,10341.39,2025-08-07,55,Asia-Pacific,Direct Link,1,Champions / VIPs
+235,64,4,3378.31,2025-06-14,33,North America,Facebook Ad,0,At Risk / Churned
+236,9,5,4184.03,2025-11-02,74,North America,Facebook Ad,3,Loyal / Regular
+237,24,2,1224.6,2026-04-02,20,Asia-Pacific,Direct Link,0,At Risk / Churned
+238,21,2,2026.11,2025-07-17,57,Europe,Referral,0,At Risk / Churned
+239,4,6,4047.58,2025-04-15,33,Asia-Pacific,Google Search,3,Loyal / Regular
+240,23,7,10314.01,2025-11-11,64,Asia-Pacific,Direct Link,1,Champions / VIPs
+241,48,2,1571.0099999999998,2026-02-06,24,Latin America,Instagram Ad,0,At Risk / Churned
+242,20,3,877.16,2025-11-19,26,Latin America,Direct Link,0,At Risk / Churned
+243,2,6,5884.86,2025-05-26,31,North America,Google Search,3,Loyal / Regular
+244,86,1,1265.6699999999998,2026-03-16,18,Latin America,Google Search,0,At Risk / Churned
+245,87,3,3348.58,2025-01-18,64,Europe,Facebook Ad,0,At Risk / Churned
+246,63,3,578.37,2025-05-22,48,Asia-Pacific,Email Campaign,0,At Risk / Churned
+248,104,4,3512.45,2026-01-19,60,Asia-Pacific,Referral,0,At Risk / Churned
+249,340,1,337.93,2025-06-05,31,Asia-Pacific,Facebook Ad,2,Active - Low Spend
+250,55,2,1042.37,2026-02-25,60,North America,Google Search,0,At Risk / Churned
+251,4,4,2464.92,2026-01-10,70,North America,Email Campaign,0,At Risk / Churned
+252,205,3,2686.3100000000004,2025-02-11,44,Europe,Facebook Ad,2,Active - Low Spend
+253,93,3,1009.6300000000001,2025-10-31,60,North America,Direct Link,0,At Risk / Churned
+254,141,1,1590.7,2025-07-13,73,North America,Email Campaign,0,At Risk / Churned
+255,55,2,2218.33,2025-05-16,33,North America,Email Campaign,0,At Risk / Churned
+256,54,7,7901.130000000001,2025-02-03,26,Asia-Pacific,Google Search,1,Champions / VIPs
+257,47,4,3831.85,2025-11-21,47,Europe,Facebook Ad,0,At Risk / Churned
+258,8,6,4099.87,2025-09-07,69,Europe,Referral,3,Loyal / Regular
+259,185,3,4234.24,2025-01-14,74,Asia-Pacific,Google Search,2,Active - Low Spend
+260,95,3,1022.57,2026-01-11,75,Latin America,Instagram Ad,0,At Risk / Churned
+261,88,2,2829.69,2026-02-16,56,North America,Referral,0,At Risk / Churned
+262,12,7,5885.69,2026-03-07,18,Latin America,Referral,3,Loyal / Regular
+263,40,3,3567.6600000000003,2026-02-23,18,North America,Email Campaign,0,At Risk / Churned
+264,426,1,673.86,2025-04-04,18,North America,Direct Link,2,Active - Low Spend
+265,40,2,1386.18,2025-12-07,58,Latin America,Google Search,0,At Risk / Churned
+266,6,6,4327.21,2025-08-16,73,Europe,Google Search,3,Loyal / Regular
+267,50,1,1545.79,2026-02-12,34,North America,Referral,0,At Risk / Churned
+268,23,2,3819.89,2026-03-04,42,Asia-Pacific,Instagram Ad,0,At Risk / Churned
+269,145,3,4291.59,2025-04-06,75,Latin America,Google Search,2,Active - Low Spend
+270,62,2,836.7,2026-03-30,58,Latin America,Facebook Ad,0,At Risk / Churned
+271,118,9,8632.9,2025-03-08,20,Asia-Pacific,Instagram Ad,1,Champions / VIPs
+272,21,7,7591.55,2026-03-30,74,Latin America,Email Campaign,1,Champions / VIPs
+273,16,13,12703.0,2025-05-03,25,North America,Facebook Ad,1,Champions / VIPs
+274,45,7,3581.71,2025-04-24,42,Latin America,Email Campaign,3,Loyal / Regular
+275,21,10,5923.62,2025-09-12,24,Latin America,Instagram Ad,1,Champions / VIPs
+276,68,7,7685.219999999999,2025-02-18,19,North America,Google Search,1,Champions / VIPs
+277,41,8,6448.88,2026-01-24,28,Asia-Pacific,Google Search,1,Champions / VIPs
+278,94,5,3912.4300000000003,2025-04-05,62,Europe,Email Campaign,3,Loyal / Regular
+279,263,5,2652.33,2025-05-09,57,North America,Facebook Ad,2,Active - Low Spend
+280,12,3,3330.7300000000005,2025-06-30,42,Europe,Direct Link,0,At Risk / Churned
+281,118,5,5689.94,2025-07-12,59,Latin America,Referral,3,Loyal / Regular
+282,60,5,4646.780000000001,2025-09-05,50,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+283,25,7,7418.85,2026-02-20,24,Latin America,Google Search,1,Champions / VIPs
+284,321,4,972.95,2025-04-21,60,Europe,Google Search,2,Active - Low Spend
+285,16,10,14541.13,2025-08-01,52,Asia-Pacific,Google Search,1,Champions / VIPs
+286,85,3,2657.6499999999996,2025-03-23,21,Europe,Facebook Ad,0,At Risk / Churned
+287,3,6,2425.65,2026-03-01,57,Latin America,Referral,3,Loyal / Regular
+288,25,8,12527.560000000001,2026-01-21,20,North America,Referral,1,Champions / VIPs
+289,109,4,5602.1,2025-09-22,49,North America,Direct Link,3,Loyal / Regular
+290,47,4,3003.16,2025-12-10,44,Europe,Email Campaign,0,At Risk / Churned
+291,129,1,82.36999999999999,2025-04-03,35,North America,Direct Link,0,At Risk / Churned
+292,12,5,4130.179999999999,2026-03-06,67,Europe,Referral,3,Loyal / Regular
+293,6,6,4758.55,2025-07-09,43,Europe,Referral,3,Loyal / Regular
+294,28,3,3105.5200000000004,2025-12-10,32,Latin America,Referral,0,At Risk / Churned
+295,61,9,8997.720000000001,2025-01-28,57,North America,Direct Link,1,Champions / VIPs
+296,123,4,2919.3,2025-02-08,55,North America,Instagram Ad,0,At Risk / Churned
+297,229,2,1351.4299999999998,2025-09-15,37,Latin America,Google Search,2,Active - Low Spend
+298,20,7,7015.33,2026-01-24,28,Europe,Email Campaign,1,Champions / VIPs
+299,1,7,4620.09,2026-01-02,73,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+300,68,2,1212.87,2025-04-04,38,Latin America,Google Search,0,At Risk / Churned
+301,86,4,8658.61,2025-09-09,28,North America,Instagram Ad,3,Loyal / Regular
+302,13,3,3265.0,2025-10-12,69,Asia-Pacific,Facebook Ad,0,At Risk / Churned
+303,4,8,9953.15,2026-01-19,37,North America,Facebook Ad,1,Champions / VIPs
+304,52,4,3452.54,2025-01-08,50,Latin America,Email Campaign,0,At Risk / Churned
+305,4,6,4442.63,2025-12-12,19,North America,Facebook Ad,3,Loyal / Regular
+306,55,4,2045.37,2025-10-19,22,Europe,Google Search,0,At Risk / Churned
+307,31,3,1797.82,2026-01-02,48,Europe,Email Campaign,0,At Risk / Churned
+308,50,5,5776.45,2025-09-30,60,Asia-Pacific,Direct Link,3,Loyal / Regular
+309,156,4,2922.67,2025-07-22,73,North America,Referral,2,Active - Low Spend
+310,59,8,6816.59,2025-09-04,50,Asia-Pacific,Referral,1,Champions / VIPs
+311,43,11,10078.24,2025-02-17,42,Asia-Pacific,Facebook Ad,1,Champions / VIPs
+312,10,7,8700.42,2025-11-15,35,Asia-Pacific,Instagram Ad,1,Champions / VIPs
+313,6,6,5909.4800000000005,2025-01-31,53,North America,Referral,3,Loyal / Regular
+314,32,9,6904.4800000000005,2025-05-05,40,North America,Facebook Ad,1,Champions / VIPs
+315,84,1,407.68999999999994,2026-03-04,40,North America,Email Campaign,0,At Risk / Churned
+316,8,11,7582.549999999999,2025-07-18,20,Latin America,Facebook Ad,1,Champions / VIPs
+317,74,7,9828.65,2025-08-21,31,Latin America,Email Campaign,1,Champions / VIPs
+318,15,6,4350.37,2025-07-14,24,North America,Referral,3,Loyal / Regular
+319,2,9,9221.62,2025-07-23,39,North America,Facebook Ad,1,Champions / VIPs
+320,14,3,1191.43,2025-10-09,24,Latin America,Email Campaign,0,At Risk / Churned
+321,38,5,3336.1099999999997,2025-09-23,25,Asia-Pacific,Email Campaign,3,Loyal / Regular
+322,22,5,6215.119999999999,2025-08-19,66,North America,Facebook Ad,3,Loyal / Regular
+323,59,7,6033.040000000001,2025-12-26,36,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+324,26,5,5137.360000000001,2025-05-26,59,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+325,3,4,6267.79,2026-01-10,71,Latin America,Referral,3,Loyal / Regular
+326,38,7,10426.48,2025-04-22,27,North America,Instagram Ad,1,Champions / VIPs
+327,92,2,1224.15,2025-05-07,54,North America,Facebook Ad,0,At Risk / Churned
+328,7,12,10310.09,2025-06-05,37,Asia-Pacific,Referral,1,Champions / VIPs
+329,29,7,4332.860000000001,2026-03-17,50,Europe,Instagram Ad,3,Loyal / Regular
+330,15,2,1599.41,2025-11-24,26,Latin America,Direct Link,0,At Risk / Churned
+331,4,1,701.36,2026-02-26,68,North America,Email Campaign,0,At Risk / Churned
+332,60,4,4948.650000000001,2025-10-05,44,North America,Google Search,3,Loyal / Regular
+333,59,7,10359.59,2025-07-28,63,Latin America,Instagram Ad,1,Champions / VIPs
+334,55,3,4128.62,2025-07-16,69,Europe,Instagram Ad,0,At Risk / Churned
+335,8,6,2633.4,2025-07-07,63,Europe,Direct Link,3,Loyal / Regular
+336,105,3,2316.64,2025-01-08,66,North America,Referral,0,At Risk / Churned
+337,176,4,2241.29,2025-05-11,44,Europe,Direct Link,2,Active - Low Spend
+338,93,7,5966.66,2025-01-21,46,Europe,Facebook Ad,3,Loyal / Regular
+339,14,9,10893.72,2025-08-24,18,Europe,Referral,1,Champions / VIPs
+340,61,5,3752.1500000000005,2025-05-03,69,Europe,Facebook Ad,3,Loyal / Regular
+341,14,6,7548.0199999999995,2025-12-16,49,North America,Direct Link,3,Loyal / Regular
+342,5,6,6288.969999999999,2025-10-11,35,Asia-Pacific,Referral,3,Loyal / Regular
+343,228,5,4179.7699999999995,2025-06-11,55,Asia-Pacific,Facebook Ad,2,Active - Low Spend
+344,86,5,3272.9,2026-01-03,62,Latin America,Referral,3,Loyal / Regular
+345,135,5,6316.5599999999995,2025-08-13,26,Europe,Referral,3,Loyal / Regular
+346,34,3,1508.18,2025-12-12,48,Europe,Google Search,0,At Risk / Churned
+347,57,3,4632.5599999999995,2025-10-24,60,Latin America,Direct Link,0,At Risk / Churned
+348,13,5,5618.75,2026-02-05,53,Latin America,Email Campaign,3,Loyal / Regular
+349,33,6,4616.31,2025-11-22,34,Europe,Referral,3,Loyal / Regular
+350,4,6,7365.5,2025-05-24,67,Asia-Pacific,Referral,3,Loyal / Regular
+351,2,4,3760.7299999999996,2026-03-09,46,Latin America,Direct Link,3,Loyal / Regular
+352,216,2,1055.1000000000001,2025-03-16,30,Asia-Pacific,Google Search,2,Active - Low Spend
+353,43,3,3697.3500000000004,2025-08-10,73,Europe,Google Search,0,At Risk / Churned
+354,30,5,4787.26,2025-08-25,75,North America,Referral,3,Loyal / Regular
+355,1,6,5341.91,2025-11-08,58,Latin America,Direct Link,3,Loyal / Regular
+356,61,5,3280.2200000000003,2025-07-31,63,Europe,Referral,3,Loyal / Regular
+357,5,4,6780.57,2025-11-10,31,Europe,Email Campaign,3,Loyal / Regular
+358,3,6,6502.11,2026-03-11,59,Europe,Referral,3,Loyal / Regular
+359,309,3,3600.0499999999997,2025-01-02,47,Latin America,Facebook Ad,2,Active - Low Spend
+360,44,3,1875.54,2025-09-26,75,Asia-Pacific,Direct Link,0,At Risk / Churned
+361,107,7,5634.17,2025-08-16,47,Europe,Google Search,3,Loyal / Regular
+362,17,3,2909.3799999999997,2025-08-11,33,Latin America,Email Campaign,0,At Risk / Churned
+363,2,1,2030.85,2025-08-10,48,Asia-Pacific,Google Search,0,At Risk / Churned
+364,52,6,6800.11,2025-09-10,37,Europe,Direct Link,3,Loyal / Regular
+365,11,8,7438.6900000000005,2026-03-27,36,Latin America,Email Campaign,1,Champions / VIPs
+366,98,2,669.23,2025-11-11,39,North America,Direct Link,0,At Risk / Churned
+367,17,8,7785.66,2025-07-16,53,Latin America,Instagram Ad,1,Champions / VIPs
+368,129,8,7829.24,2025-05-04,74,Asia-Pacific,Instagram Ad,1,Champions / VIPs
+369,10,3,5131.28,2025-11-21,22,Latin America,Direct Link,3,Loyal / Regular
+370,170,5,5441.3,2025-08-09,58,Europe,Google Search,2,Active - Low Spend
+371,129,3,2794.9700000000003,2025-09-13,35,Asia-Pacific,Email Campaign,0,At Risk / Churned
+372,20,8,4591.1900000000005,2025-10-12,70,Latin America,Instagram Ad,3,Loyal / Regular
+373,46,4,6628.62,2025-09-10,59,Europe,Facebook Ad,3,Loyal / Regular
+374,382,2,2624.24,2025-01-17,70,Europe,Referral,2,Active - Low Spend
+375,16,3,1922.46,2026-03-10,22,Asia-Pacific,Direct Link,0,At Risk / Churned
+376,25,3,4253.27,2026-02-26,61,Latin America,Referral,0,At Risk / Churned
+377,75,3,7395.34,2025-11-24,29,Latin America,Facebook Ad,3,Loyal / Regular
+378,10,5,4089.4,2026-03-18,55,North America,Email Campaign,3,Loyal / Regular
+379,13,8,5398.43,2025-04-16,23,North America,Google Search,3,Loyal / Regular
+380,104,3,1812.54,2025-04-07,44,Latin America,Facebook Ad,0,At Risk / Churned
+381,11,5,6249.77,2026-01-25,47,North America,Instagram Ad,3,Loyal / Regular
+382,22,6,9252.32,2025-08-19,61,Europe,Instagram Ad,1,Champions / VIPs
+383,53,3,2800.27,2025-09-14,54,Europe,Google Search,0,At Risk / Churned
+384,31,5,5848.110000000001,2025-04-27,43,Asia-Pacific,Email Campaign,3,Loyal / Regular
+385,51,4,3028.16,2025-12-01,31,Latin America,Email Campaign,0,At Risk / Churned
+386,179,3,2998.5,2025-08-25,43,Asia-Pacific,Referral,2,Active - Low Spend
+387,169,3,2299.1,2025-01-15,54,North America,Direct Link,2,Active - Low Spend
+388,4,12,12773.78,2026-03-26,45,North America,Google Search,1,Champions / VIPs
+389,13,4,2133.76,2026-03-04,44,Europe,Facebook Ad,0,At Risk / Churned
+390,35,3,3904.29,2025-09-03,40,Europe,Google Search,0,At Risk / Churned
+391,31,6,2775.5,2025-10-03,70,North America,Facebook Ad,3,Loyal / Regular
+392,21,4,6336.5599999999995,2025-12-30,49,North America,Direct Link,3,Loyal / Regular
+393,25,7,7422.23,2026-02-17,21,Latin America,Instagram Ad,1,Champions / VIPs
+394,17,3,1804.12,2026-03-31,71,Latin America,Google Search,0,At Risk / Churned
+395,39,5,2975.21,2026-02-26,63,Asia-Pacific,Email Campaign,3,Loyal / Regular
+396,123,3,2887.41,2026-01-11,47,Europe,Instagram Ad,0,At Risk / Churned
+397,185,6,3305.6,2025-02-19,31,North America,Facebook Ad,2,Active - Low Spend
+398,70,11,10700.68,2025-05-17,67,Europe,Facebook Ad,1,Champions / VIPs
+399,3,5,3412.39,2025-12-28,70,Asia-Pacific,Direct Link,3,Loyal / Regular
+400,25,8,10383.4,2025-05-25,37,Europe,Referral,1,Champions / VIPs
+401,241,6,8193.789999999999,2025-01-24,45,Europe,Referral,2,Active - Low Spend
+402,11,8,4657.0,2025-11-14,64,Latin America,Instagram Ad,3,Loyal / Regular
+403,24,10,7938.4800000000005,2025-03-21,29,Latin America,Instagram Ad,1,Champions / VIPs
+404,72,3,4862.34,2025-03-03,46,Latin America,Email Campaign,0,At Risk / Churned
+405,75,3,2082.23,2025-09-06,63,Europe,Facebook Ad,0,At Risk / Churned
+406,24,6,6358.93,2025-12-22,49,North America,Referral,3,Loyal / Regular
+407,69,2,432.93,2025-04-26,73,Asia-Pacific,Google Search,0,At Risk / Churned
+408,12,3,5188.97,2025-10-26,54,Latin America,Direct Link,3,Loyal / Regular
+409,175,2,677.0,2025-09-16,46,Latin America,Facebook Ad,2,Active - Low Spend
+410,162,3,5429.51,2025-06-29,49,Asia-Pacific,Direct Link,2,Active - Low Spend
+411,109,5,1851.65,2025-03-30,68,Latin America,Instagram Ad,0,At Risk / Churned
+412,165,4,3764.17,2025-04-08,27,Europe,Instagram Ad,2,Active - Low Spend
+413,2,4,4243.05,2025-12-18,67,North America,Google Search,3,Loyal / Regular
+414,58,1,720.78,2025-12-22,36,Asia-Pacific,Facebook Ad,0,At Risk / Churned
+415,72,5,1433.85,2025-03-10,54,Asia-Pacific,Direct Link,0,At Risk / Churned
+416,13,7,4013.1799999999994,2025-01-22,25,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+417,15,6,5767.57,2025-12-03,71,North America,Facebook Ad,3,Loyal / Regular
+418,118,4,4901.6,2025-09-19,37,Asia-Pacific,Referral,3,Loyal / Regular
+419,20,5,4377.31,2025-11-05,70,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+420,72,5,5756.16,2025-09-24,72,Latin America,Referral,3,Loyal / Regular
+421,58,3,4670.43,2025-12-05,22,Asia-Pacific,Instagram Ad,0,At Risk / Churned
+422,103,3,4483.74,2025-12-09,55,Europe,Email Campaign,0,At Risk / Churned
+423,175,6,9947.23,2025-04-29,23,Europe,Referral,1,Champions / VIPs
+424,83,10,6093.299999999999,2025-06-19,52,Latin America,Direct Link,1,Champions / VIPs
+425,127,7,5555.889999999999,2025-05-23,28,Asia-Pacific,Referral,3,Loyal / Regular
+426,48,6,5761.82,2025-09-29,64,Latin America,Instagram Ad,3,Loyal / Regular
+427,28,9,5295.05,2026-03-03,49,Europe,Email Campaign,1,Champions / VIPs
+428,48,4,3972.7999999999993,2025-12-18,32,North America,Facebook Ad,0,At Risk / Churned
+429,261,4,3377.75,2025-01-31,47,Europe,Google Search,2,Active - Low Spend
+430,47,2,2206.4399999999996,2025-04-07,71,Europe,Facebook Ad,0,At Risk / Churned
+431,61,8,7007.33,2025-08-31,23,North America,Facebook Ad,1,Champions / VIPs
+432,34,7,8948.81,2025-03-06,67,North America,Email Campaign,1,Champions / VIPs
+433,23,1,699.74,2025-11-03,67,Europe,Google Search,0,At Risk / Churned
+434,90,2,3107.98,2025-06-02,18,Europe,Email Campaign,0,At Risk / Churned
+435,70,4,2161.47,2026-03-19,69,North America,Referral,0,At Risk / Churned
+436,54,5,2987.26,2025-01-21,45,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+437,13,7,8792.18,2025-11-01,61,Asia-Pacific,Instagram Ad,1,Champions / VIPs
+438,19,6,2501.06,2025-04-15,50,Europe,Facebook Ad,3,Loyal / Regular
+439,11,6,8974.47,2025-05-04,57,Europe,Google Search,1,Champions / VIPs
+440,4,8,7626.74,2025-05-01,27,Asia-Pacific,Referral,1,Champions / VIPs
+441,20,8,5292.7,2025-08-25,24,North America,Facebook Ad,3,Loyal / Regular
+442,78,4,3757.4,2025-12-04,74,Asia-Pacific,Email Campaign,0,At Risk / Churned
+443,1,7,4541.860000000001,2025-07-13,51,Latin America,Referral,3,Loyal / Regular
+444,23,7,6393.85,2025-09-21,42,North America,Direct Link,3,Loyal / Regular
+445,16,1,1255.63,2025-10-19,55,North America,Email Campaign,0,At Risk / Churned
+446,234,6,4229.7,2025-01-01,27,Asia-Pacific,Instagram Ad,2,Active - Low Spend
+447,53,5,3641.3700000000003,2025-01-09,25,Latin America,Instagram Ad,3,Loyal / Regular
+448,23,6,5558.55,2025-06-13,66,Asia-Pacific,Direct Link,3,Loyal / Regular
+449,130,9,5811.22,2025-01-24,38,Europe,Facebook Ad,1,Champions / VIPs
+450,58,5,4795.63,2025-11-26,52,North America,Instagram Ad,3,Loyal / Regular
+451,15,4,2981.6,2025-05-05,33,Europe,Email Campaign,0,At Risk / Churned
+452,67,6,5457.5,2025-01-05,24,Asia-Pacific,Email Campaign,3,Loyal / Regular
+453,244,3,1955.31,2025-01-31,68,Europe,Facebook Ad,2,Active - Low Spend
+454,33,8,9585.88,2025-09-23,19,Latin America,Facebook Ad,1,Champions / VIPs
+455,15,7,3162.82,2026-03-06,31,Latin America,Instagram Ad,3,Loyal / Regular
+456,10,6,3396.0800000000004,2025-10-08,54,Latin America,Email Campaign,3,Loyal / Regular
+457,53,11,11595.849999999999,2025-03-03,66,Europe,Email Campaign,1,Champions / VIPs
+458,100,7,4222.83,2025-01-15,22,Latin America,Email Campaign,3,Loyal / Regular
+459,85,2,1500.8000000000002,2026-02-11,55,Asia-Pacific,Referral,0,At Risk / Churned
+460,54,2,2479.47,2025-08-19,46,Europe,Direct Link,0,At Risk / Churned
+461,35,7,3812.27,2025-11-02,31,Latin America,Email Campaign,3,Loyal / Regular
+462,135,9,12262.529999999999,2025-06-10,63,Asia-Pacific,Referral,1,Champions / VIPs
+463,26,8,8069.44,2025-01-15,58,North America,Email Campaign,1,Champions / VIPs
+464,100,5,2494.7000000000003,2025-10-02,30,Latin America,Facebook Ad,0,At Risk / Churned
+465,57,4,3711.3100000000004,2025-04-28,20,Latin America,Email Campaign,0,At Risk / Churned
+466,57,4,2778.08,2025-04-25,59,Europe,Direct Link,0,At Risk / Churned
+467,10,5,5439.98,2026-01-17,54,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+468,118,4,3252.47,2025-03-10,51,Latin America,Email Campaign,0,At Risk / Churned
+469,59,6,7804.3099999999995,2025-11-15,39,North America,Instagram Ad,1,Champions / VIPs
+470,34,8,4710.7300000000005,2026-01-27,22,Asia-Pacific,Google Search,3,Loyal / Regular
+471,11,8,9271.96,2025-12-05,21,Europe,Instagram Ad,1,Champions / VIPs
+472,68,7,5492.84,2025-05-26,56,Europe,Referral,3,Loyal / Regular
+473,112,4,1426.24,2025-10-17,53,Latin America,Email Campaign,0,At Risk / Churned
+474,12,5,2899.48,2025-06-28,37,Asia-Pacific,Email Campaign,3,Loyal / Regular
+475,17,3,810.5600000000001,2026-03-04,46,Latin America,Email Campaign,0,At Risk / Churned
+476,84,8,5646.42,2025-08-14,24,Latin America,Direct Link,3,Loyal / Regular
+477,8,5,4604.74,2026-01-23,41,Europe,Referral,3,Loyal / Regular
+478,41,6,4870.34,2025-09-28,57,Asia-Pacific,Google Search,3,Loyal / Regular
+479,96,3,5298.38,2025-01-22,55,Latin America,Facebook Ad,0,At Risk / Churned
+480,70,8,8605.85,2025-10-25,46,North America,Referral,1,Champions / VIPs
+481,34,8,6769.7,2025-07-08,33,Asia-Pacific,Facebook Ad,1,Champions / VIPs
+482,183,3,3809.7700000000004,2025-02-11,36,Europe,Google Search,2,Active - Low Spend
+483,67,5,4222.97,2025-10-02,69,North America,Email Campaign,3,Loyal / Regular
+484,8,6,7388.13,2025-10-04,34,North America,Google Search,3,Loyal / Regular
+485,9,6,7434.799999999999,2026-01-24,46,North America,Direct Link,3,Loyal / Regular
+486,175,6,1616.5,2025-06-13,40,Latin America,Facebook Ad,2,Active - Low Spend
+487,139,1,645.47,2025-04-26,20,North America,Instagram Ad,0,At Risk / Churned
+488,69,9,12120.919999999998,2025-03-19,66,Europe,Facebook Ad,1,Champions / VIPs
+489,411,3,5568.46,2025-01-19,32,North America,Facebook Ad,2,Active - Low Spend
+490,28,7,4804.48,2025-12-15,35,Europe,Referral,3,Loyal / Regular
+491,78,3,3725.94,2025-12-01,26,Asia-Pacific,Instagram Ad,0,At Risk / Churned
+492,1,7,4215.05,2025-04-09,21,North America,Referral,3,Loyal / Regular
+493,167,1,1026.5500000000002,2025-09-12,20,North America,Facebook Ad,2,Active - Low Spend
+494,8,7,5009.17,2025-06-19,28,Asia-Pacific,Email Campaign,3,Loyal / Regular
+495,6,7,5031.77,2026-02-23,65,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+496,108,3,2221.74,2025-07-03,53,Latin America,Email Campaign,0,At Risk / Churned
+497,65,4,1724.06,2025-04-24,66,Latin America,Instagram Ad,0,At Risk / Churned
+498,24,3,989.3499999999999,2026-03-31,67,North America,Referral,0,At Risk / Churned
+499,151,4,1836.8000000000002,2025-03-21,49,Latin America,Email Campaign,2,Active - Low Spend
+500,24,5,3699.54,2025-01-25,32,Europe,Email Campaign,3,Loyal / Regular
+501,393,2,1898.4099999999999,2025-01-26,74,Latin America,Email Campaign,2,Active - Low Spend
+502,4,4,3464.77,2025-10-26,70,Europe,Instagram Ad,0,At Risk / Churned
+503,28,1,536.5,2026-02-27,67,Asia-Pacific,Referral,0,At Risk / Churned
+504,142,1,1608.73,2025-02-17,26,North America,Facebook Ad,0,At Risk / Churned
+505,20,2,1925.71,2025-09-18,44,Asia-Pacific,Email Campaign,0,At Risk / Churned
+506,96,2,2792.7,2026-02-03,58,Latin America,Direct Link,0,At Risk / Churned
+508,14,4,2050.48,2025-03-01,50,North America,Google Search,0,At Risk / Churned
+509,46,9,10746.14,2025-03-08,53,Latin America,Instagram Ad,1,Champions / VIPs
+510,11,11,7282.990000000001,2026-03-11,21,Asia-Pacific,Facebook Ad,1,Champions / VIPs
+511,14,6,5575.89,2025-03-07,24,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+512,46,6,3917.62,2025-09-02,19,Latin America,Referral,3,Loyal / Regular
+513,47,8,6006.78,2025-05-15,21,Asia-Pacific,Email Campaign,1,Champions / VIPs
+514,168,5,4616.66,2025-06-02,30,Europe,Referral,2,Active - Low Spend
+515,78,5,5907.949999999999,2025-12-04,24,North America,Referral,3,Loyal / Regular
+516,86,4,2765.9799999999996,2025-02-09,50,Latin America,Email Campaign,0,At Risk / Churned
+517,37,4,2907.85,2025-03-29,72,North America,Google Search,0,At Risk / Churned
+518,26,4,9086.41,2026-03-16,65,Asia-Pacific,Google Search,3,Loyal / Regular
+519,32,3,3237.5600000000004,2025-02-15,61,Europe,Email Campaign,0,At Risk / Churned
+520,73,5,9163.65,2025-03-17,23,Europe,Email Campaign,1,Champions / VIPs
+521,46,4,1030.03,2025-07-14,50,Latin America,Referral,0,At Risk / Churned
+522,5,4,3575.83,2026-03-29,63,North America,Direct Link,0,At Risk / Churned
+523,121,3,1073.15,2025-04-12,26,North America,Email Campaign,0,At Risk / Churned
+524,50,5,3216.4700000000003,2025-10-11,53,Europe,Direct Link,3,Loyal / Regular
+525,4,8,9290.4,2025-03-26,47,North America,Email Campaign,1,Champions / VIPs
+526,83,6,8614.64,2025-02-02,53,Asia-Pacific,Referral,1,Champions / VIPs
+527,44,4,2478.2799999999997,2025-06-24,43,North America,Referral,0,At Risk / Churned
+528,16,4,5461.639999999999,2026-02-22,41,Europe,Direct Link,3,Loyal / Regular
+529,55,4,4620.17,2025-12-27,73,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+530,126,3,3196.9100000000003,2025-11-02,42,Asia-Pacific,Direct Link,0,At Risk / Churned
+531,1,8,9732.45,2026-02-18,40,North America,Google Search,1,Champions / VIPs
+532,32,1,1504.3,2026-03-31,27,Asia-Pacific,Direct Link,0,At Risk / Churned
+533,1,2,251.34,2025-10-30,28,Europe,Email Campaign,0,At Risk / Churned
+534,9,5,5752.08,2025-04-24,49,Asia-Pacific,Direct Link,3,Loyal / Regular
+535,71,10,6356.64,2025-11-09,43,Asia-Pacific,Direct Link,1,Champions / VIPs
+536,200,4,4798.42,2025-01-14,72,Asia-Pacific,Facebook Ad,2,Active - Low Spend
+537,102,3,3062.91,2026-01-14,73,North America,Email Campaign,0,At Risk / Churned
+538,83,7,6931.23,2025-07-30,74,Asia-Pacific,Facebook Ad,1,Champions / VIPs
+539,1,6,6618.68,2026-03-01,41,Asia-Pacific,Referral,3,Loyal / Regular
+540,109,4,4587.52,2025-03-08,47,Latin America,Referral,0,At Risk / Churned
+541,102,1,1268.43,2026-03-12,70,Latin America,Referral,0,At Risk / Churned
+542,42,5,8024.869999999999,2025-10-08,55,Europe,Email Campaign,3,Loyal / Regular
+543,8,7,5763.51,2025-09-12,44,Europe,Instagram Ad,3,Loyal / Regular
+544,86,5,4062.9,2025-04-25,40,North America,Instagram Ad,3,Loyal / Regular
+545,121,4,3853.02,2025-06-04,69,Europe,Referral,0,At Risk / Churned
+546,33,7,4195.59,2025-11-14,32,North America,Facebook Ad,3,Loyal / Regular
+547,152,4,3864.47,2025-02-05,46,North America,Instagram Ad,2,Active - Low Spend
+548,18,4,3349.8,2025-02-25,56,Latin America,Google Search,0,At Risk / Churned
+549,21,6,6663.38,2025-11-18,42,Europe,Email Campaign,3,Loyal / Regular
+550,86,4,1199.07,2025-12-04,65,North America,Instagram Ad,0,At Risk / Churned
+551,47,6,6859.24,2025-10-23,75,Europe,Google Search,3,Loyal / Regular
+552,19,5,7278.51,2026-03-25,48,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+553,86,1,678.8299999999999,2025-11-02,58,Latin America,Direct Link,0,At Risk / Churned
+554,3,5,3949.2999999999997,2025-11-09,72,Europe,Facebook Ad,3,Loyal / Regular
+555,11,6,5461.58,2025-05-29,52,Latin America,Email Campaign,3,Loyal / Regular
+556,5,4,3197.01,2025-07-19,67,North America,Google Search,0,At Risk / Churned
+557,5,5,6140.35,2026-02-07,19,North America,Direct Link,3,Loyal / Regular
+558,134,7,6807.780000000001,2025-02-08,34,Europe,Referral,1,Champions / VIPs
+559,70,4,2731.38,2026-02-23,58,Latin America,Facebook Ad,0,At Risk / Churned
+560,38,2,895.98,2025-01-15,50,North America,Google Search,0,At Risk / Churned
+561,28,8,7822.33,2025-08-21,70,North America,Google Search,1,Champions / VIPs
+562,15,3,4350.26,2026-02-14,60,Asia-Pacific,Google Search,0,At Risk / Churned
+563,48,5,3403.41,2025-04-15,69,Europe,Direct Link,3,Loyal / Regular
+564,157,6,2015.5900000000001,2025-08-27,65,Europe,Email Campaign,2,Active - Low Spend
+565,141,6,2909.2,2025-06-26,69,Latin America,Referral,3,Loyal / Regular
+566,233,5,4948.54,2025-02-22,19,North America,Facebook Ad,2,Active - Low Spend
+567,34,8,8540.68,2025-04-27,47,North America,Referral,1,Champions / VIPs
+568,103,2,2720.0299999999997,2025-05-17,29,Asia-Pacific,Referral,0,At Risk / Churned
+569,65,5,3252.1000000000004,2025-07-23,75,Asia-Pacific,Google Search,3,Loyal / Regular
+570,36,2,2892.1099999999997,2025-11-06,63,Europe,Referral,0,At Risk / Churned
+571,167,5,3761.69,2025-06-02,74,North America,Direct Link,2,Active - Low Spend
+572,65,3,1321.28,2025-05-17,67,Asia-Pacific,Email Campaign,0,At Risk / Churned
+573,210,1,123.03,2025-08-02,69,Europe,Google Search,2,Active - Low Spend
+574,15,3,1300.93,2025-12-14,56,Asia-Pacific,Google Search,0,At Risk / Churned
+575,113,5,3902.91,2025-06-04,23,North America,Instagram Ad,3,Loyal / Regular
+576,3,6,4973.07,2025-01-20,65,North America,Google Search,3,Loyal / Regular
+577,265,4,2850.7599999999998,2025-05-14,32,Europe,Referral,2,Active - Low Spend
+578,50,2,784.6099999999999,2025-11-12,36,Asia-Pacific,Facebook Ad,0,At Risk / Churned
+579,5,9,6344.09,2025-10-15,75,North America,Referral,1,Champions / VIPs
+580,30,3,2172.44,2025-12-14,55,North America,Instagram Ad,0,At Risk / Churned
+581,95,3,3229.0,2025-07-17,33,Latin America,Facebook Ad,0,At Risk / Churned
+582,20,4,3611.2400000000002,2025-04-26,68,Asia-Pacific,Google Search,0,At Risk / Churned
+583,18,7,9489.71,2025-08-03,68,Latin America,Referral,1,Champions / VIPs
+584,11,5,4435.9,2025-10-30,25,Asia-Pacific,Referral,3,Loyal / Regular
+585,59,5,3738.04,2025-08-08,27,North America,Direct Link,3,Loyal / Regular
+586,139,3,2678.0299999999997,2025-09-06,31,North America,Referral,0,At Risk / Churned
+587,347,1,883.73,2025-05-11,74,Latin America,Referral,2,Active - Low Spend
+588,114,2,959.04,2025-04-05,48,Latin America,Google Search,0,At Risk / Churned
+589,227,1,1857.17,2025-08-31,45,Latin America,Referral,2,Active - Low Spend
+590,2,6,5135.35,2026-01-15,18,Asia-Pacific,Referral,3,Loyal / Regular
+591,25,5,4134.91,2026-02-21,26,North America,Google Search,3,Loyal / Regular
+592,19,5,4885.1900000000005,2025-10-28,50,North America,Direct Link,3,Loyal / Regular
+593,51,1,564.13,2026-01-19,54,North America,Facebook Ad,0,At Risk / Churned
+594,98,6,2904.35,2025-02-05,32,Europe,Google Search,3,Loyal / Regular
+595,35,5,4088.81,2025-03-03,68,Latin America,Instagram Ad,3,Loyal / Regular
+596,145,6,6083.2,2025-04-13,55,North America,Facebook Ad,3,Loyal / Regular
+597,18,4,4185.23,2025-12-05,37,North America,Facebook Ad,3,Loyal / Regular
+598,154,6,4892.21,2025-03-16,21,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+599,3,7,6740.63,2026-03-23,37,Asia-Pacific,Google Search,1,Champions / VIPs
+600,13,7,5112.88,2025-12-19,54,Latin America,Email Campaign,3,Loyal / Regular
+601,47,4,2906.44,2025-04-20,56,Asia-Pacific,Google Search,0,At Risk / Churned
+602,31,2,1263.7200000000003,2025-08-19,57,Latin America,Google Search,0,At Risk / Churned
+603,112,4,3768.0299999999997,2025-05-25,60,North America,Direct Link,0,At Risk / Churned
+604,16,6,3696.2200000000003,2026-01-27,42,Latin America,Direct Link,3,Loyal / Regular
+605,29,7,7404.33,2025-08-14,56,Asia-Pacific,Direct Link,1,Champions / VIPs
+606,65,4,1442.34,2025-03-02,26,North America,Referral,0,At Risk / Churned
+607,8,6,4087.7700000000004,2025-08-03,74,North America,Facebook Ad,3,Loyal / Regular
+608,51,3,1782.5900000000001,2025-12-12,22,Europe,Instagram Ad,0,At Risk / Churned
+609,17,7,7813.5599999999995,2025-12-16,69,Latin America,Instagram Ad,1,Champions / VIPs
+610,23,4,2594.75,2025-07-09,36,Latin America,Email Campaign,0,At Risk / Churned
+611,33,8,10146.25,2025-11-19,36,Europe,Facebook Ad,1,Champions / VIPs
+612,26,3,5878.789999999999,2025-07-07,31,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+613,132,5,3370.36,2025-02-24,70,Asia-Pacific,Facebook Ad,0,At Risk / Churned
+614,132,4,2502.44,2025-12-08,55,Latin America,Instagram Ad,0,At Risk / Churned
+615,38,4,2661.99,2025-11-20,74,Asia-Pacific,Facebook Ad,0,At Risk / Churned
+616,57,6,5369.950000000001,2025-10-19,38,North America,Facebook Ad,3,Loyal / Regular
+617,111,2,1258.27,2025-10-01,66,Europe,Direct Link,0,At Risk / Churned
+618,22,6,5137.96,2026-02-16,58,Latin America,Facebook Ad,3,Loyal / Regular
+619,75,5,5697.11,2026-01-06,54,Latin America,Google Search,3,Loyal / Regular
+620,34,7,6777.5,2025-11-27,24,Asia-Pacific,Referral,1,Champions / VIPs
+621,165,1,634.22,2025-09-01,23,Asia-Pacific,Instagram Ad,2,Active - Low Spend
+622,10,8,7206.15,2025-01-13,63,Latin America,Email Campaign,1,Champions / VIPs
+623,334,1,1638.74,2025-04-08,65,Latin America,Referral,2,Active - Low Spend
+624,75,1,667.55,2025-08-15,69,North America,Referral,0,At Risk / Churned
+625,14,5,2809.82,2026-03-12,58,Latin America,Email Campaign,3,Loyal / Regular
+626,45,4,4098.540000000001,2025-08-07,67,Europe,Facebook Ad,3,Loyal / Regular
+627,14,5,4084.7,2025-03-23,27,North America,Facebook Ad,3,Loyal / Regular
+628,12,6,6450.9800000000005,2025-10-02,45,North America,Facebook Ad,3,Loyal / Regular
+629,37,7,5071.3099999999995,2025-07-04,39,Europe,Direct Link,3,Loyal / Regular
+630,50,4,6143.3099999999995,2025-03-31,63,Asia-Pacific,Direct Link,3,Loyal / Regular
+631,75,6,3429.6499999999996,2025-03-14,25,North America,Instagram Ad,3,Loyal / Regular
+632,115,2,4131.54,2025-06-10,72,Asia-Pacific,Google Search,0,At Risk / Churned
+633,91,4,4213.6,2026-02-05,60,Latin America,Google Search,0,At Risk / Churned
+634,19,7,10490.93,2026-03-24,43,Europe,Email Campaign,1,Champions / VIPs
+635,78,4,5466.14,2025-10-02,67,North America,Instagram Ad,3,Loyal / Regular
+636,13,4,4808.51,2025-03-30,50,Latin America,Referral,3,Loyal / Regular
+637,24,6,7954.27,2025-10-08,69,Latin America,Referral,1,Champions / VIPs
+638,75,6,4189.49,2025-12-11,62,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+639,345,4,4690.129999999999,2025-01-01,37,Asia-Pacific,Email Campaign,2,Active - Low Spend
+640,262,5,5964.91,2025-06-22,31,Latin America,Email Campaign,2,Active - Low Spend
+641,49,4,3902.22,2025-10-13,37,North America,Instagram Ad,0,At Risk / Churned
+642,23,6,6773.54,2025-12-23,27,Asia-Pacific,Referral,3,Loyal / Regular
+643,9,9,7902.02,2026-01-25,47,Latin America,Email Campaign,1,Champions / VIPs
+644,22,5,2919.42,2025-03-18,46,Latin America,Direct Link,3,Loyal / Regular
+645,8,7,3648.86,2025-11-05,34,Latin America,Google Search,3,Loyal / Regular
+646,66,3,4694.58,2025-03-21,19,North America,Instagram Ad,0,At Risk / Churned
+647,11,4,4352.24,2026-03-06,72,Latin America,Referral,3,Loyal / Regular
+648,68,4,2018.71,2025-12-01,64,North America,Google Search,0,At Risk / Churned
+649,31,5,5880.51,2025-06-23,27,North America,Instagram Ad,3,Loyal / Regular
+650,99,2,1497.8999999999999,2025-07-02,27,Europe,Google Search,0,At Risk / Churned
+651,14,7,6601.639999999999,2025-09-01,45,North America,Google Search,3,Loyal / Regular
+652,4,1,362.11,2025-05-12,28,Asia-Pacific,Google Search,0,At Risk / Churned
+653,18,5,5170.16,2025-07-23,64,Europe,Email Campaign,3,Loyal / Regular
+654,43,9,9428.83,2025-05-14,62,Latin America,Instagram Ad,1,Champions / VIPs
+655,68,3,1258.92,2025-01-22,39,North America,Email Campaign,0,At Risk / Churned
+656,10,5,3934.7999999999997,2025-03-15,43,Latin America,Email Campaign,3,Loyal / Regular
+657,188,3,1822.88,2025-10-12,24,North America,Google Search,2,Active - Low Spend
+658,33,3,1433.3200000000002,2026-03-26,65,North America,Instagram Ad,0,At Risk / Churned
+659,11,3,2058.35,2025-07-28,46,North America,Email Campaign,0,At Risk / Churned
+660,5,6,4722.03,2025-03-31,35,North America,Facebook Ad,3,Loyal / Regular
+661,115,5,5705.13,2025-04-26,71,North America,Google Search,3,Loyal / Regular
+662,74,6,10193.1,2025-05-21,75,Latin America,Facebook Ad,1,Champions / VIPs
+663,107,3,4962.39,2025-04-09,43,Asia-Pacific,Instagram Ad,0,At Risk / Churned
+664,8,6,2029.27,2025-10-06,45,North America,Email Campaign,3,Loyal / Regular
+665,20,5,4770.32,2025-03-13,71,Asia-Pacific,Email Campaign,3,Loyal / Regular
+666,29,3,2729.39,2026-02-24,18,Asia-Pacific,Direct Link,0,At Risk / Churned
+667,224,1,584.12,2025-04-24,56,Latin America,Referral,2,Active - Low Spend
+668,146,1,2549.93,2025-10-28,25,North America,Facebook Ad,2,Active - Low Spend
+669,25,3,2580.64,2025-12-17,30,Europe,Referral,0,At Risk / Churned
+670,58,3,1445.45,2025-11-28,18,Europe,Referral,0,At Risk / Churned
+671,21,5,2719.1600000000003,2025-04-05,22,Asia-Pacific,Google Search,3,Loyal / Regular
+672,50,6,5239.37,2025-09-28,30,Latin America,Instagram Ad,3,Loyal / Regular
+673,103,5,7550.63,2025-01-28,18,Latin America,Direct Link,3,Loyal / Regular
+675,13,5,4967.7699999999995,2025-04-25,71,Europe,Facebook Ad,3,Loyal / Regular
+676,2,10,8846.83,2026-03-14,57,North America,Direct Link,1,Champions / VIPs
+677,1,10,5853.77,2025-06-04,43,Europe,Referral,1,Champions / VIPs
+678,45,6,4594.24,2025-01-25,48,Latin America,Referral,3,Loyal / Regular
+679,2,5,2510.1899999999996,2025-02-12,48,Asia-Pacific,Email Campaign,3,Loyal / Regular
+680,64,6,4532.719999999999,2025-03-10,41,North America,Email Campaign,3,Loyal / Regular
+681,26,5,6713.25,2025-12-29,39,Europe,Email Campaign,3,Loyal / Regular
+682,219,7,5151.55,2025-03-20,59,Asia-Pacific,Direct Link,2,Active - Low Spend
+683,75,5,5501.39,2025-03-29,26,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+684,19,6,3709.3900000000003,2026-03-22,60,North America,Instagram Ad,3,Loyal / Regular
+685,153,6,6525.5199999999995,2025-07-23,24,North America,Direct Link,3,Loyal / Regular
+686,244,2,885.3499999999999,2025-05-10,67,Asia-Pacific,Referral,2,Active - Low Spend
+687,167,2,1502.67,2025-05-07,59,Europe,Facebook Ad,2,Active - Low Spend
+688,107,3,4840.59,2025-07-28,75,Asia-Pacific,Google Search,0,At Risk / Churned
+689,108,6,3478.89,2025-03-01,39,Europe,Instagram Ad,3,Loyal / Regular
+690,29,4,3518.4300000000003,2025-05-22,75,Asia-Pacific,Referral,0,At Risk / Churned
+691,8,4,2892.99,2026-01-17,56,North America,Facebook Ad,0,At Risk / Churned
+692,16,9,6540.24,2025-12-10,29,North America,Email Campaign,1,Champions / VIPs
+693,10,2,2434.57,2026-02-08,38,Europe,Direct Link,0,At Risk / Churned
+694,56,9,12745.8,2025-07-19,27,Latin America,Google Search,1,Champions / VIPs
+695,44,3,1955.8600000000001,2025-07-29,38,Asia-Pacific,Facebook Ad,0,At Risk / Churned
+696,39,4,4630.54,2025-08-18,48,North America,Instagram Ad,3,Loyal / Regular
+697,68,4,5629.87,2025-05-08,65,Latin America,Referral,3,Loyal / Regular
+698,59,5,5374.389999999999,2025-02-12,43,Europe,Email Campaign,3,Loyal / Regular
+699,5,6,3701.9,2025-01-19,26,Europe,Facebook Ad,3,Loyal / Regular
+700,97,11,9559.54,2025-08-11,23,Latin America,Referral,1,Champions / VIPs
+701,51,6,6897.629999999999,2025-07-23,36,North America,Instagram Ad,3,Loyal / Regular
+702,111,3,2808.08,2025-08-27,57,Latin America,Direct Link,0,At Risk / Churned
+703,53,5,4725.3,2025-01-23,50,North America,Google Search,3,Loyal / Regular
+704,35,6,8944.88,2025-11-16,31,North America,Facebook Ad,1,Champions / VIPs
+705,40,4,3953.24,2026-02-18,37,North America,Direct Link,0,At Risk / Churned
+706,34,7,6140.290000000001,2026-02-02,26,Latin America,Direct Link,3,Loyal / Regular
+707,2,7,8451.79,2026-01-25,60,Europe,Direct Link,1,Champions / VIPs
+708,4,9,7152.74,2025-10-17,43,North America,Referral,1,Champions / VIPs
+709,74,8,5621.72,2025-05-14,30,North America,Facebook Ad,3,Loyal / Regular
+710,45,7,7339.96,2025-05-13,33,Latin America,Email Campaign,1,Champions / VIPs
+711,6,9,6373.650000000001,2025-06-02,75,Latin America,Direct Link,1,Champions / VIPs
+712,44,6,9969.68,2026-03-13,19,North America,Referral,1,Champions / VIPs
+713,25,3,6115.44,2025-11-28,61,Latin America,Email Campaign,3,Loyal / Regular
+714,20,7,5952.67,2026-03-10,27,Latin America,Referral,3,Loyal / Regular
+715,233,3,2210.25,2025-05-11,38,Europe,Referral,2,Active - Low Spend
+716,38,4,4440.610000000001,2025-06-10,25,North America,Direct Link,3,Loyal / Regular
+717,46,6,4875.43,2025-03-01,33,Latin America,Facebook Ad,3,Loyal / Regular
+718,35,5,3312.86,2026-01-24,48,North America,Facebook Ad,3,Loyal / Regular
+719,3,4,2457.44,2026-03-08,51,Latin America,Facebook Ad,0,At Risk / Churned
+720,79,3,1785.62,2025-06-02,63,North America,Google Search,0,At Risk / Churned
+721,234,2,2007.4,2025-05-03,59,North America,Direct Link,2,Active - Low Spend
+722,80,3,2517.0,2025-10-22,55,Asia-Pacific,Direct Link,0,At Risk / Churned
+723,84,5,4661.57,2025-01-30,66,Latin America,Google Search,3,Loyal / Regular
+724,9,5,2988.11,2026-02-28,42,Asia-Pacific,Direct Link,3,Loyal / Regular
+725,123,6,6432.58,2025-03-04,41,Asia-Pacific,Email Campaign,3,Loyal / Regular
+726,8,5,2791.15,2025-05-16,23,North America,Referral,3,Loyal / Regular
+727,8,5,2277.51,2025-01-15,73,Europe,Instagram Ad,3,Loyal / Regular
+728,179,3,550.72,2025-03-31,31,Latin America,Email Campaign,2,Active - Low Spend
+729,218,6,4249.71,2025-01-16,18,Latin America,Instagram Ad,2,Active - Low Spend
+730,12,6,7399.98,2025-02-21,44,Latin America,Google Search,3,Loyal / Regular
+731,75,2,981.76,2025-06-11,54,Latin America,Direct Link,0,At Risk / Churned
+732,106,2,1367.0400000000002,2025-10-23,19,Latin America,Google Search,0,At Risk / Churned
+733,30,3,1387.81,2025-09-27,38,Europe,Google Search,0,At Risk / Churned
+734,60,5,5020.6900000000005,2025-04-21,67,North America,Instagram Ad,3,Loyal / Regular
+735,32,5,5018.1900000000005,2026-03-24,29,Europe,Referral,3,Loyal / Regular
+736,7,8,7968.51,2026-02-13,34,Asia-Pacific,Google Search,1,Champions / VIPs
+737,11,4,2608.1,2026-03-05,34,Latin America,Instagram Ad,0,At Risk / Churned
+738,17,11,9460.86,2025-02-03,53,Asia-Pacific,Facebook Ad,1,Champions / VIPs
+739,21,4,4365.55,2025-02-15,45,Europe,Referral,3,Loyal / Regular
+740,35,3,2835.2,2026-02-14,27,North America,Direct Link,0,At Risk / Churned
+741,177,5,2900.37,2025-02-04,27,Latin America,Google Search,2,Active - Low Spend
+742,30,5,3298.15,2025-11-29,55,Asia-Pacific,Google Search,3,Loyal / Regular
+743,135,4,4270.150000000001,2025-08-16,59,North America,Google Search,0,At Risk / Churned
+744,44,3,4102.93,2025-12-03,50,Latin America,Referral,0,At Risk / Churned
+745,118,6,8374.79,2025-05-01,35,Asia-Pacific,Referral,1,Champions / VIPs
+746,34,4,3392.36,2025-06-18,34,Europe,Google Search,0,At Risk / Churned
+747,12,6,6188.27,2026-03-01,55,Latin America,Email Campaign,3,Loyal / Regular
+748,32,5,4174.19,2026-03-10,45,Asia-Pacific,Direct Link,3,Loyal / Regular
+749,102,3,1632.01,2025-07-01,71,Latin America,Direct Link,0,At Risk / Churned
+750,17,4,5231.49,2025-05-09,20,Europe,Google Search,3,Loyal / Regular
+751,244,7,4544.94,2025-05-23,67,Europe,Direct Link,2,Active - Low Spend
+752,17,11,8485.19,2025-10-19,20,North America,Direct Link,1,Champions / VIPs
+753,51,1,2521.2799999999997,2025-11-08,74,North America,Referral,0,At Risk / Churned
+754,40,5,2457.82,2025-04-28,42,Latin America,Referral,0,At Risk / Churned
+755,34,4,5081.63,2026-01-01,34,Asia-Pacific,Direct Link,3,Loyal / Regular
+756,49,5,2264.41,2025-09-24,42,Latin America,Referral,0,At Risk / Churned
+757,405,2,3785.9900000000002,2025-01-08,48,Latin America,Instagram Ad,2,Active - Low Spend
+758,6,1,9.06,2026-03-27,46,North America,Direct Link,0,At Risk / Churned
+759,257,1,1819.52,2025-06-17,34,North America,Email Campaign,2,Active - Low Spend
+760,37,3,1920.68,2025-07-09,45,North America,Google Search,0,At Risk / Churned
+761,114,3,2050.41,2025-07-03,63,Europe,Referral,0,At Risk / Churned
+762,45,4,1871.3600000000001,2025-11-02,71,Latin America,Instagram Ad,0,At Risk / Churned
+763,4,4,1281.1399999999999,2025-05-25,61,North America,Facebook Ad,0,At Risk / Churned
+764,2,7,10513.41,2026-01-31,59,Asia-Pacific,Instagram Ad,1,Champions / VIPs
+765,45,5,2484.23,2025-11-26,73,Asia-Pacific,Referral,0,At Risk / Churned
+766,14,5,2992.13,2025-10-04,64,Europe,Email Campaign,3,Loyal / Regular
+767,43,5,5098.47,2025-09-26,19,Latin America,Referral,3,Loyal / Regular
+768,17,9,9519.28,2025-10-19,46,Latin America,Referral,1,Champions / VIPs
+769,49,4,2073.0299999999997,2026-01-18,64,Europe,Direct Link,0,At Risk / Churned
+770,131,3,2986.38,2025-07-28,31,Latin America,Email Campaign,0,At Risk / Churned
+771,1,8,7380.4,2026-03-12,67,Asia-Pacific,Instagram Ad,1,Champions / VIPs
+772,8,6,4433.2,2025-11-11,74,North America,Email Campaign,3,Loyal / Regular
+773,56,5,4502.66,2025-09-02,66,Latin America,Facebook Ad,3,Loyal / Regular
+774,30,2,3321.13,2025-12-05,23,Latin America,Email Campaign,0,At Risk / Churned
+775,43,7,6095.48,2025-07-31,29,North America,Instagram Ad,3,Loyal / Regular
+776,6,3,660.65,2026-01-17,62,Latin America,Referral,0,At Risk / Churned
+777,25,10,5957.56,2025-03-07,63,Latin America,Referral,1,Champions / VIPs
+778,30,3,1596.2199999999998,2026-01-21,62,Asia-Pacific,Referral,0,At Risk / Churned
+779,254,4,3617.3500000000004,2025-06-10,38,Latin America,Direct Link,2,Active - Low Spend
+780,5,6,6097.74,2025-03-14,57,Asia-Pacific,Referral,3,Loyal / Regular
+781,59,3,2819.1000000000004,2025-03-18,27,North America,Referral,0,At Risk / Churned
+782,59,8,10313.470000000001,2025-02-15,56,Asia-Pacific,Referral,1,Champions / VIPs
+783,336,1,1353.48,2025-02-05,19,Europe,Direct Link,2,Active - Low Spend
+784,2,2,1739.6799999999998,2025-07-16,30,North America,Direct Link,0,At Risk / Churned
+785,140,7,7421.540000000001,2025-03-17,44,Asia-Pacific,Email Campaign,1,Champions / VIPs
+786,50,6,5384.07,2025-04-19,67,North America,Facebook Ad,3,Loyal / Regular
+787,7,7,6593.65,2025-12-24,52,Latin America,Referral,3,Loyal / Regular
+788,5,3,2499.85,2025-07-24,20,Latin America,Direct Link,0,At Risk / Churned
+789,103,6,2320.46,2025-05-04,27,Asia-Pacific,Direct Link,3,Loyal / Regular
+790,38,10,12778.98,2025-07-17,35,Latin America,Direct Link,1,Champions / VIPs
+791,93,8,8897.710000000001,2025-09-15,67,Asia-Pacific,Referral,1,Champions / VIPs
+792,5,5,4519.01,2026-02-19,41,Europe,Google Search,3,Loyal / Regular
+793,32,6,10417.57,2025-07-07,27,Latin America,Referral,1,Champions / VIPs
+794,20,9,9095.1,2026-03-12,42,Asia-Pacific,Google Search,1,Champions / VIPs
+795,67,3,2296.52,2025-10-10,68,Asia-Pacific,Referral,0,At Risk / Churned
+796,26,8,3133.98,2025-06-16,75,North America,Facebook Ad,3,Loyal / Regular
+797,4,3,3034.39,2026-02-20,20,Asia-Pacific,Direct Link,0,At Risk / Churned
+798,46,4,5712.0599999999995,2025-09-17,66,North America,Instagram Ad,3,Loyal / Regular
+799,11,2,361.01000000000005,2025-10-02,53,Europe,Referral,0,At Risk / Churned
+800,63,7,6164.53,2026-01-01,67,Europe,Instagram Ad,3,Loyal / Regular
+801,55,1,211.59,2025-03-12,60,Europe,Referral,0,At Risk / Churned
+802,4,1,1963.55,2026-03-05,50,Latin America,Instagram Ad,0,At Risk / Churned
+803,49,5,3737.0600000000004,2025-09-22,18,North America,Referral,3,Loyal / Regular
+804,332,3,2387.86,2025-06-04,51,Latin America,Referral,2,Active - Low Spend
+805,47,6,6059.200000000001,2025-01-03,19,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+806,131,3,2740.88,2025-10-20,31,North America,Google Search,0,At Risk / Churned
+807,25,8,6798.35,2026-02-09,68,Asia-Pacific,Referral,1,Champions / VIPs
+808,38,5,3833.5699999999997,2025-05-24,49,North America,Instagram Ad,3,Loyal / Regular
+809,13,6,9007.22,2026-01-13,21,North America,Direct Link,1,Champions / VIPs
+810,35,3,1653.23,2025-10-10,65,Latin America,Facebook Ad,0,At Risk / Churned
+811,64,6,5168.51,2025-10-07,58,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+812,108,7,8019.25,2025-06-05,66,North America,Email Campaign,1,Champions / VIPs
+813,32,4,4227.02,2026-03-03,68,North America,Referral,3,Loyal / Regular
+814,29,1,365.58,2025-08-28,43,Europe,Direct Link,0,At Risk / Churned
+815,90,3,2530.39,2025-05-01,27,North America,Facebook Ad,0,At Risk / Churned
+816,13,5,5874.369999999999,2026-03-06,37,North America,Direct Link,3,Loyal / Regular
+817,53,3,5426.67,2025-05-12,44,Europe,Referral,0,At Risk / Churned
+818,20,6,5358.98,2025-10-07,31,Asia-Pacific,Email Campaign,3,Loyal / Regular
+819,102,2,853.48,2026-02-01,18,Latin America,Referral,0,At Risk / Churned
+820,61,8,6425.389999999999,2025-02-11,45,Europe,Email Campaign,1,Champions / VIPs
+821,17,5,5517.93,2025-02-09,26,Latin America,Instagram Ad,3,Loyal / Regular
+822,61,4,3929.2,2026-01-22,51,Asia-Pacific,Direct Link,0,At Risk / Churned
+823,22,3,2212.31,2026-03-13,39,North America,Google Search,0,At Risk / Churned
+824,27,3,4470.63,2025-08-23,72,Europe,Referral,0,At Risk / Churned
+825,37,8,7225.1,2025-08-27,67,Europe,Facebook Ad,1,Champions / VIPs
+826,8,8,6858.09,2025-08-21,63,North America,Facebook Ad,1,Champions / VIPs
+827,6,3,3732.7699999999995,2025-08-20,24,Latin America,Email Campaign,0,At Risk / Churned
+828,22,6,7385.96,2026-02-05,61,Latin America,Facebook Ad,3,Loyal / Regular
+829,1,3,4768.24,2025-10-30,37,North America,Email Campaign,0,At Risk / Churned
+830,61,4,4645.15,2025-04-23,32,Latin America,Referral,3,Loyal / Regular
+831,29,5,9052.9,2025-05-25,21,Latin America,Instagram Ad,1,Champions / VIPs
+832,41,4,3037.75,2025-02-26,67,Asia-Pacific,Instagram Ad,0,At Risk / Churned
+833,150,6,6879.1900000000005,2025-01-30,23,Latin America,Referral,3,Loyal / Regular
+834,23,9,4469.51,2026-01-16,60,Latin America,Direct Link,3,Loyal / Regular
+835,28,8,9993.11,2025-09-12,28,North America,Facebook Ad,1,Champions / VIPs
+836,110,5,7600.52,2025-07-13,34,Europe,Instagram Ad,3,Loyal / Regular
+837,1,5,1755.77,2025-02-26,43,Latin America,Google Search,0,At Risk / Churned
+838,29,6,3025.3,2025-08-28,44,North America,Facebook Ad,3,Loyal / Regular
+839,18,8,7963.0,2026-02-08,69,Latin America,Referral,1,Champions / VIPs
+840,129,2,1449.25,2025-06-05,35,Europe,Referral,0,At Risk / Churned
+841,10,7,5848.76,2026-01-10,55,Latin America,Facebook Ad,3,Loyal / Regular
+842,65,2,1306.08,2025-01-01,23,Latin America,Direct Link,0,At Risk / Churned
+843,3,4,3099.5699999999997,2025-12-13,41,Latin America,Facebook Ad,0,At Risk / Churned
+844,11,4,6052.58,2026-02-03,64,Asia-Pacific,Email Campaign,3,Loyal / Regular
+845,158,5,2692.8999999999996,2025-03-19,73,Europe,Google Search,2,Active - Low Spend
+846,6,5,2735.81,2026-02-26,58,Asia-Pacific,Google Search,3,Loyal / Regular
+847,91,3,2032.9199999999998,2025-11-08,27,Europe,Google Search,0,At Risk / Churned
+848,4,8,4759.35,2026-04-01,73,Latin America,Referral,3,Loyal / Regular
+849,1,8,7035.63,2025-09-05,59,Europe,Referral,1,Champions / VIPs
+850,172,4,2418.1800000000003,2025-02-12,67,Latin America,Instagram Ad,2,Active - Low Spend
+851,5,6,3686.75,2026-02-10,67,North America,Direct Link,3,Loyal / Regular
+852,8,8,7776.54,2025-10-24,74,Europe,Instagram Ad,1,Champions / VIPs
+853,9,6,5197.83,2026-01-19,23,North America,Direct Link,3,Loyal / Regular
+854,35,6,3486.54,2025-09-04,61,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+855,129,6,9980.84,2025-04-29,45,Europe,Referral,1,Champions / VIPs
+856,36,4,2149.09,2025-12-31,36,Europe,Direct Link,0,At Risk / Churned
+857,124,4,4634.639999999999,2025-01-13,60,Latin America,Facebook Ad,0,At Risk / Churned
+858,47,4,1204.66,2025-10-16,36,Asia-Pacific,Instagram Ad,0,At Risk / Churned
+859,206,2,984.9799999999999,2025-01-28,46,Europe,Facebook Ad,2,Active - Low Spend
+860,8,8,6415.46,2026-03-13,20,Asia-Pacific,Google Search,1,Champions / VIPs
+861,99,4,3988.33,2025-11-01,64,North America,Referral,0,At Risk / Churned
+862,14,5,3048.14,2025-08-12,20,Asia-Pacific,Referral,3,Loyal / Regular
+863,168,4,2179.74,2025-02-05,75,Asia-Pacific,Referral,2,Active - Low Spend
+864,46,10,13321.6,2025-05-24,74,Latin America,Referral,1,Champions / VIPs
+865,38,4,4409.15,2026-03-10,54,Europe,Facebook Ad,3,Loyal / Regular
+866,144,5,2281.33,2025-03-21,49,North America,Google Search,2,Active - Low Spend
+867,16,8,10517.82,2026-02-02,63,Asia-Pacific,Facebook Ad,1,Champions / VIPs
+868,67,5,6889.87,2025-05-27,23,North America,Email Campaign,3,Loyal / Regular
+869,25,3,4986.24,2025-09-15,20,Asia-Pacific,Direct Link,0,At Risk / Churned
+870,31,9,9762.66,2025-11-01,60,Latin America,Referral,1,Champions / VIPs
+871,2,4,2571.2999999999997,2026-02-03,72,Asia-Pacific,Direct Link,0,At Risk / Churned
+872,13,6,3237.0699999999997,2025-12-26,36,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+873,92,2,928.33,2025-01-10,40,Latin America,Direct Link,0,At Risk / Churned
+874,85,6,9916.72,2025-10-17,25,Asia-Pacific,Instagram Ad,1,Champions / VIPs
+875,26,4,6533.299999999999,2025-01-05,51,North America,Referral,3,Loyal / Regular
+876,401,2,909.26,2025-02-05,64,North America,Referral,2,Active - Low Spend
+877,29,7,7830.25,2026-01-25,22,Latin America,Instagram Ad,1,Champions / VIPs
+878,108,4,647.8299999999999,2025-01-10,68,Latin America,Email Campaign,0,At Risk / Churned
+879,134,4,2137.35,2025-06-26,69,North America,Direct Link,0,At Risk / Churned
+880,22,6,4141.33,2025-08-21,31,Latin America,Direct Link,3,Loyal / Regular
+881,162,2,442.97,2025-02-17,50,Latin America,Facebook Ad,2,Active - Low Spend
+882,148,3,2682.37,2025-08-17,55,Asia-Pacific,Instagram Ad,2,Active - Low Spend
+883,83,5,4387.21,2025-02-09,21,Europe,Facebook Ad,3,Loyal / Regular
+884,28,8,7386.87,2026-02-09,69,Latin America,Google Search,1,Champions / VIPs
+885,220,4,1916.83,2025-04-12,34,Latin America,Instagram Ad,2,Active - Low Spend
+886,88,5,4255.5,2025-02-01,31,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+887,33,5,5195.87,2025-10-17,48,Europe,Google Search,3,Loyal / Regular
+888,72,3,6970.57,2026-01-22,36,Latin America,Facebook Ad,3,Loyal / Regular
+889,108,2,975.26,2025-01-05,39,Asia-Pacific,Facebook Ad,0,At Risk / Churned
+890,35,10,11387.71,2025-02-07,60,Asia-Pacific,Email Campaign,1,Champions / VIPs
+891,3,7,7686.83,2025-04-06,73,Latin America,Google Search,1,Champions / VIPs
+892,13,8,3959.82,2026-01-15,55,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+893,6,6,4201.18,2025-04-13,41,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+894,12,4,4792.11,2026-03-22,54,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+895,138,3,3310.99,2025-08-11,65,Latin America,Google Search,0,At Risk / Churned
+896,11,8,7383.02,2025-04-21,57,Latin America,Facebook Ad,1,Champions / VIPs
+897,40,5,3838.03,2026-01-31,62,North America,Email Campaign,3,Loyal / Regular
+898,33,8,12392.49,2025-10-04,57,Asia-Pacific,Instagram Ad,1,Champions / VIPs
+899,33,3,4519.639999999999,2025-09-07,62,Latin America,Facebook Ad,0,At Risk / Churned
+900,26,4,2467.82,2026-01-05,47,Latin America,Direct Link,0,At Risk / Churned
+901,1,6,5188.64,2025-08-13,65,Asia-Pacific,Direct Link,3,Loyal / Regular
+902,113,3,1120.9299999999998,2025-08-12,45,Asia-Pacific,Referral,0,At Risk / Churned
+903,394,1,516.72,2025-02-16,26,Europe,Email Campaign,2,Active - Low Spend
+904,159,5,3189.8,2025-08-14,54,Asia-Pacific,Referral,2,Active - Low Spend
+905,26,5,6861.089999999999,2025-02-07,27,Latin America,Google Search,3,Loyal / Regular
+906,10,4,4078.3500000000004,2025-12-25,44,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+907,36,7,6839.04,2025-10-10,31,Latin America,Google Search,1,Champions / VIPs
+908,54,5,4830.1900000000005,2025-03-04,35,Europe,Instagram Ad,3,Loyal / Regular
+909,386,1,337.37,2025-06-03,65,Europe,Google Search,2,Active - Low Spend
+910,10,6,10822.7,2026-01-08,54,North America,Referral,1,Champions / VIPs
+911,12,6,3724.2499999999995,2026-03-23,66,Europe,Email Campaign,3,Loyal / Regular
+912,59,5,6572.65,2025-06-08,68,Latin America,Facebook Ad,3,Loyal / Regular
+913,12,5,1260.78,2025-03-21,49,North America,Direct Link,0,At Risk / Churned
+914,22,8,7372.160000000001,2025-02-17,23,Latin America,Email Campaign,1,Champions / VIPs
+915,13,7,7513.57,2025-12-15,28,North America,Direct Link,1,Champions / VIPs
+916,36,3,1168.1299999999999,2025-11-01,60,Latin America,Email Campaign,0,At Risk / Churned
+917,67,8,5490.1,2025-02-26,45,North America,Direct Link,3,Loyal / Regular
+918,16,5,1493.22,2026-01-17,41,Asia-Pacific,Direct Link,0,At Risk / Churned
+919,16,5,5454.4400000000005,2025-06-02,64,Latin America,Direct Link,3,Loyal / Regular
+920,35,2,1280.35,2025-11-26,53,Asia-Pacific,Google Search,0,At Risk / Churned
+921,8,6,2601.7599999999998,2025-04-11,65,North America,Email Campaign,3,Loyal / Regular
+922,49,5,2447.73,2025-03-28,58,Latin America,Facebook Ad,0,At Risk / Churned
+923,28,5,940.68,2026-02-14,41,Asia-Pacific,Google Search,0,At Risk / Churned
+924,47,3,2165.15,2025-03-25,71,Latin America,Instagram Ad,0,At Risk / Churned
+925,8,3,3196.5699999999997,2026-03-01,70,Europe,Facebook Ad,0,At Risk / Churned
+926,19,6,4140.139999999999,2025-11-30,67,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+927,98,9,6730.83,2025-01-27,18,North America,Referral,1,Champions / VIPs
+928,231,4,2783.23,2025-06-17,57,Latin America,Facebook Ad,2,Active - Low Spend
+929,159,1,1280.56,2025-04-19,62,North America,Facebook Ad,2,Active - Low Spend
+930,3,6,4657.849999999999,2025-10-04,63,Europe,Facebook Ad,3,Loyal / Regular
+931,29,6,3996.14,2026-01-17,72,North America,Email Campaign,3,Loyal / Regular
+932,24,5,5483.8099999999995,2026-03-29,65,Latin America,Instagram Ad,3,Loyal / Regular
+933,41,3,924.6700000000001,2026-01-07,48,Latin America,Instagram Ad,0,At Risk / Churned
+934,56,3,5676.67,2025-05-26,47,Latin America,Facebook Ad,3,Loyal / Regular
+935,157,6,4891.12,2025-04-05,48,Latin America,Instagram Ad,3,Loyal / Regular
+936,91,4,3235.8399999999997,2026-02-02,69,Latin America,Facebook Ad,0,At Risk / Churned
+937,50,6,4166.04,2025-09-04,59,Latin America,Google Search,3,Loyal / Regular
+938,23,2,1981.58,2025-12-03,69,Latin America,Direct Link,0,At Risk / Churned
+939,68,6,4800.55,2025-08-12,37,North America,Email Campaign,3,Loyal / Regular
+940,46,4,2998.17,2025-07-12,49,North America,Email Campaign,0,At Risk / Churned
+941,78,7,9239.939999999999,2025-01-14,60,Asia-Pacific,Direct Link,1,Champions / VIPs
+942,51,4,2909.56,2025-10-03,22,North America,Google Search,0,At Risk / Churned
+943,3,5,3449.95,2026-03-31,28,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+944,80,2,4301.95,2025-02-24,52,Europe,Google Search,0,At Risk / Churned
+945,41,4,3724.27,2025-02-25,57,Europe,Email Campaign,0,At Risk / Churned
+946,92,4,5795.25,2025-03-02,57,Asia-Pacific,Google Search,3,Loyal / Regular
+947,1,8,3573.5,2025-06-25,69,North America,Email Campaign,3,Loyal / Regular
+948,14,6,6940.95,2025-09-28,34,Europe,Facebook Ad,3,Loyal / Regular
+949,65,4,3782.06,2025-06-19,33,Europe,Direct Link,0,At Risk / Churned
+950,15,4,1969.6699999999998,2025-08-24,49,Europe,Referral,0,At Risk / Churned
+951,3,9,10089.35,2026-02-02,43,Europe,Direct Link,1,Champions / VIPs
+952,30,4,2241.05,2025-04-24,19,Latin America,Instagram Ad,0,At Risk / Churned
+953,189,6,6027.03,2025-06-27,40,North America,Direct Link,2,Active - Low Spend
+954,279,1,89.06,2025-06-30,57,Latin America,Referral,2,Active - Low Spend
+955,86,3,2738.9300000000003,2025-07-04,31,Latin America,Instagram Ad,0,At Risk / Churned
+956,100,5,5712.03,2025-01-10,73,Latin America,Email Campaign,3,Loyal / Regular
+957,8,3,2529.25,2026-04-01,52,Asia-Pacific,Referral,0,At Risk / Churned
+958,57,7,4956.46,2025-05-21,40,North America,Facebook Ad,3,Loyal / Regular
+959,1,6,3572.71,2025-01-18,49,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+960,75,3,3551.1,2025-10-16,64,Asia-Pacific,Instagram Ad,0,At Risk / Churned
+961,105,4,6670.849999999999,2025-08-13,39,North America,Referral,3,Loyal / Regular
+962,3,6,4466.86,2025-10-20,64,Europe,Instagram Ad,3,Loyal / Regular
+963,6,6,3153.9900000000002,2025-03-30,48,Europe,Email Campaign,3,Loyal / Regular
+964,27,7,2651.0,2026-03-08,44,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+965,8,6,5642.7,2025-12-05,25,Europe,Referral,3,Loyal / Regular
+966,122,9,7035.82,2025-01-04,51,Asia-Pacific,Facebook Ad,1,Champions / VIPs
+967,51,3,2576.92,2025-10-08,62,Latin America,Email Campaign,0,At Risk / Churned
+968,89,9,8037.58,2025-08-26,43,North America,Google Search,1,Champions / VIPs
+969,25,9,10109.380000000001,2025-03-11,31,Asia-Pacific,Instagram Ad,1,Champions / VIPs
+970,107,5,2717.62,2025-07-08,20,Latin America,Direct Link,0,At Risk / Churned
+971,6,3,1718.81,2025-11-14,67,Latin America,Referral,0,At Risk / Churned
+972,10,3,4180.53,2026-01-19,34,Latin America,Referral,0,At Risk / Churned
+973,34,6,7586.8,2025-09-10,43,Asia-Pacific,Facebook Ad,3,Loyal / Regular
+974,8,5,3835.6600000000003,2025-04-11,74,Latin America,Direct Link,3,Loyal / Regular
+975,54,4,2320.92,2025-03-29,60,Asia-Pacific,Direct Link,0,At Risk / Churned
+976,4,4,2012.6200000000001,2025-10-07,60,Latin America,Google Search,0,At Risk / Churned
+977,10,6,3823.67,2026-03-30,44,Latin America,Google Search,3,Loyal / Regular
+978,39,2,1516.3100000000002,2025-09-10,25,Asia-Pacific,Email Campaign,0,At Risk / Churned
+979,121,5,5236.97,2025-02-21,73,North America,Google Search,3,Loyal / Regular
+980,12,4,1453.48,2025-09-20,41,Asia-Pacific,Facebook Ad,0,At Risk / Churned
+981,14,7,6393.95,2025-05-03,49,North America,Google Search,3,Loyal / Regular
+982,55,4,5924.73,2026-03-07,41,Asia-Pacific,Direct Link,3,Loyal / Regular
+983,59,2,1664.98,2026-03-07,63,Latin America,Instagram Ad,0,At Risk / Churned
+984,191,3,1410.58,2025-08-18,67,Latin America,Referral,2,Active - Low Spend
+985,34,5,5849.67,2026-02-02,32,North America,Google Search,3,Loyal / Regular
+986,79,7,5835.62,2025-11-02,40,North America,Facebook Ad,3,Loyal / Regular
+987,9,7,7021.9400000000005,2025-03-12,64,Asia-Pacific,Instagram Ad,1,Champions / VIPs
+988,38,5,1238.5700000000002,2025-07-20,19,Europe,Referral,0,At Risk / Churned
+989,84,5,4954.0,2025-09-21,37,Latin America,Referral,3,Loyal / Regular
+990,177,7,10140.22,2025-03-21,27,North America,Facebook Ad,1,Champions / VIPs
+991,231,5,5543.05,2025-05-18,23,Asia-Pacific,Instagram Ad,2,Active - Low Spend
+992,154,6,4973.59,2025-02-19,46,Asia-Pacific,Google Search,3,Loyal / Regular
+993,21,5,4630.14,2026-02-19,33,Asia-Pacific,Instagram Ad,3,Loyal / Regular
+994,144,3,1664.88,2025-05-12,66,North America,Facebook Ad,2,Active - Low Spend
+995,71,3,1617.6999999999998,2025-07-02,45,Asia-Pacific,Direct Link,0,At Risk / Churned
+996,20,7,6691.5599999999995,2025-09-14,44,North America,Referral,1,Champions / VIPs
+997,13,3,1930.04,2025-08-16,52,Asia-Pacific,Email Campaign,0,At Risk / Churned
+998,84,3,1409.41,2025-07-10,75,Asia-Pacific,Referral,0,At Risk / Churned
+999,70,6,6791.17,2025-05-29,28,Latin America,Instagram Ad,3,Loyal / Regular
+1000,151,4,4850.679999999999,2025-08-06,45,North America,Referral,2,Active - Low Spend

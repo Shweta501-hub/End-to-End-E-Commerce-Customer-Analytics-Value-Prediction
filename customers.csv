@@ -1,0 +1,1001 @@
+customer_id,sign_up_date,age,region,acquisition_channel
+1,2025-11-22,38,North America,Instagram Ad
+2,2025-03-15,32,Europe,Facebook Ad
+3,2025-08-11,53,Europe,Facebook Ad
+4,2025-04-24,22,North America,Email Campaign
+5,2025-02-24,36,Latin America,Instagram Ad
+6,2025-05-15,46,Latin America,Google Search
+7,2025-08-16,58,Asia-Pacific,Google Search
+8,2025-10-05,42,Asia-Pacific,Referral
+9,2026-03-10,58,Europe,Referral
+10,2025-01-31,53,Asia-Pacific,Email Campaign
+11,2025-11-26,23,Latin America,Referral
+12,2025-12-11,38,Latin America,Email Campaign
+13,2026-01-10,46,North America,Referral
+14,2025-05-13,43,North America,Google Search
+15,2025-05-16,71,Latin America,Facebook Ad
+16,2025-08-18,23,North America,Instagram Ad
+17,2026-02-27,59,North America,Facebook Ad
+18,2025-05-29,58,Asia-Pacific,Direct Link
+19,2025-02-18,43,North America,Facebook Ad
+20,2026-03-30,43,North America,Email Campaign
+21,2025-03-03,36,North America,Direct Link
+22,2025-01-03,39,Asia-Pacific,Instagram Ad
+23,2025-02-04,23,Latin America,Instagram Ad
+24,2026-01-09,27,Europe,Facebook Ad
+25,2026-02-16,30,Europe,Referral
+26,2025-04-28,28,Asia-Pacific,Facebook Ad
+27,2025-01-08,66,Latin America,Direct Link
+28,2026-02-06,42,Asia-Pacific,Direct Link
+29,2025-08-30,66,Asia-Pacific,Instagram Ad
+30,2025-07-22,33,Latin America,Google Search
+31,2025-05-23,49,North America,Instagram Ad
+32,2025-09-07,40,Asia-Pacific,Instagram Ad
+33,2025-02-16,56,Asia-Pacific,Google Search
+34,2025-10-16,67,Asia-Pacific,Referral
+35,2025-02-08,21,North America,Facebook Ad
+36,2025-01-29,33,Latin America,Email Campaign
+37,2025-01-24,60,Asia-Pacific,Email Campaign
+38,2025-10-01,74,North America,Email Campaign
+39,2025-05-27,39,Europe,Google Search
+40,2025-11-21,43,North America,Google Search
+41,2025-03-16,39,North America,Google Search
+42,2025-03-07,32,Asia-Pacific,Email Campaign
+43,2026-04-01,56,Europe,Direct Link
+44,2026-03-16,74,Europe,Google Search
+45,2026-01-20,49,Latin America,Facebook Ad
+46,2025-04-29,34,Asia-Pacific,Direct Link
+47,2025-02-02,47,North America,Google Search
+48,2025-01-20,41,North America,Google Search
+49,2025-12-17,72,Asia-Pacific,Facebook Ad
+50,2025-12-20,41,Europe,Google Search
+51,2025-12-31,52,North America,Facebook Ad
+52,2025-02-17,55,Asia-Pacific,Direct Link
+53,2025-02-16,19,Latin America,Facebook Ad
+54,2026-01-21,66,Latin America,Direct Link
+55,2025-01-11,32,North America,Referral
+56,2025-06-28,66,Latin America,Direct Link
+57,2025-12-18,63,Asia-Pacific,Email Campaign
+58,2026-01-05,21,Latin America,Instagram Ad
+59,2025-03-19,27,Latin America,Email Campaign
+60,2026-02-03,44,Asia-Pacific,Instagram Ad
+61,2026-01-30,52,Asia-Pacific,Instagram Ad
+62,2025-02-01,50,Latin America,Facebook Ad
+63,2026-02-26,53,Asia-Pacific,Instagram Ad
+64,2025-10-06,32,North America,Instagram Ad
+65,2025-02-26,24,Europe,Direct Link
+66,2025-05-28,50,Asia-Pacific,Instagram Ad
+67,2025-01-09,40,Latin America,Referral
+68,2025-07-30,55,Asia-Pacific,Direct Link
+69,2025-12-01,60,Europe,Google Search
+70,2025-08-28,69,Asia-Pacific,Referral
+71,2026-03-17,68,Europe,Direct Link
+72,2025-03-16,57,North America,Direct Link
+73,2025-07-20,71,Latin America,Email Campaign
+74,2025-06-22,29,Latin America,Referral
+75,2026-03-18,35,North America,Facebook Ad
+76,2026-04-01,20,North America,Referral
+77,2025-03-14,59,Asia-Pacific,Instagram Ad
+78,2026-02-22,37,Asia-Pacific,Email Campaign
+79,2025-09-04,47,Latin America,Google Search
+80,2025-01-25,43,North America,Email Campaign
+81,2025-06-05,32,Asia-Pacific,Google Search
+82,2026-03-18,30,Latin America,Direct Link
+83,2025-03-16,56,Asia-Pacific,Instagram Ad
+84,2025-02-11,45,Asia-Pacific,Email Campaign
+85,2025-01-15,32,Latin America,Facebook Ad
+86,2025-08-15,20,Europe,Google Search
+87,2025-03-21,32,Asia-Pacific,Instagram Ad
+88,2025-11-06,44,Latin America,Google Search
+89,2026-02-28,56,Latin America,Google Search
+90,2025-06-22,45,North America,Email Campaign
+91,2025-01-13,61,Europe,Direct Link
+92,2025-06-29,75,North America,Direct Link
+93,2025-06-26,24,North America,Google Search
+94,2025-05-29,50,North America,Referral
+95,2025-05-08,58,Latin America,Google Search
+96,2025-05-05,50,North America,Direct Link
+97,2026-01-04,48,Europe,Google Search
+98,2025-07-20,56,North America,Referral
+99,2025-06-30,68,Latin America,Direct Link
+100,2025-05-21,28,Latin America,Instagram Ad
+101,2026-03-02,73,Asia-Pacific,Direct Link
+102,2025-02-10,31,Europe,Direct Link
+103,2025-08-06,30,Europe,Email Campaign
+104,2025-03-02,46,Latin America,Instagram Ad
+105,2025-08-24,44,Latin America,Facebook Ad
+106,2025-05-04,20,Europe,Instagram Ad
+107,2025-08-14,73,Asia-Pacific,Google Search
+108,2025-11-20,51,Europe,Referral
+109,2025-12-27,47,Latin America,Direct Link
+110,2025-11-15,23,Asia-Pacific,Referral
+111,2025-12-14,35,Europe,Google Search
+112,2025-05-17,54,Latin America,Google Search
+113,2025-06-21,36,Europe,Referral
+114,2026-01-26,44,North America,Email Campaign
+115,2026-01-04,32,Europe,Referral
+116,2025-01-31,71,Latin America,Google Search
+117,2025-09-24,19,Asia-Pacific,Direct Link
+118,2025-12-19,68,Latin America,Referral
+119,2025-09-08,58,North America,Instagram Ad
+120,2026-02-12,29,Latin America,Email Campaign
+121,2026-01-01,47,Asia-Pacific,Email Campaign
+122,2025-12-25,74,Latin America,Email Campaign
+123,2025-06-14,47,Europe,Email Campaign
+124,2025-06-26,38,Asia-Pacific,Referral
+125,2025-04-09,32,Latin America,Referral
+126,2025-01-01,52,Europe,Facebook Ad
+127,2025-12-06,70,Latin America,Google Search
+128,2025-10-05,41,North America,Email Campaign
+129,2025-06-12,61,Asia-Pacific,Facebook Ad
+130,2025-12-04,26,Europe,Facebook Ad
+131,2025-07-18,25,North America,Facebook Ad
+132,2025-09-25,59,Latin America,Referral
+133,2025-10-24,36,Asia-Pacific,Google Search
+134,2025-04-10,41,Latin America,Referral
+135,2025-05-26,65,Asia-Pacific,Google Search
+136,2025-03-14,25,Latin America,Google Search
+137,2025-03-26,63,Latin America,Direct Link
+138,2025-04-08,71,Asia-Pacific,Referral
+139,2025-12-31,59,Latin America,Instagram Ad
+140,2025-06-16,43,Latin America,Facebook Ad
+141,2026-03-29,38,Europe,Direct Link
+142,2025-05-18,66,Latin America,Direct Link
+143,2026-03-10,28,Europe,Direct Link
+144,2025-12-19,65,Latin America,Referral
+145,2025-11-22,39,Asia-Pacific,Direct Link
+146,2025-01-09,35,Asia-Pacific,Direct Link
+147,2025-10-16,18,Europe,Direct Link
+148,2025-01-02,74,Asia-Pacific,Referral
+149,2025-12-20,22,Asia-Pacific,Google Search
+150,2025-09-28,61,Europe,Instagram Ad
+151,2025-03-07,58,Asia-Pacific,Direct Link
+152,2026-01-17,23,Latin America,Direct Link
+153,2025-03-17,73,Asia-Pacific,Google Search
+154,2025-11-08,74,Asia-Pacific,Direct Link
+155,2025-07-25,30,Europe,Facebook Ad
+156,2025-09-03,30,Europe,Email Campaign
+157,2025-11-06,51,Europe,Email Campaign
+158,2025-11-09,20,Asia-Pacific,Instagram Ad
+159,2025-06-23,39,Europe,Email Campaign
+160,2025-02-26,67,Latin America,Facebook Ad
+161,2026-02-21,57,Europe,Email Campaign
+162,2025-12-29,42,North America,Instagram Ad
+163,2026-01-18,47,Asia-Pacific,Google Search
+164,2025-12-30,75,Latin America,Direct Link
+165,2025-08-23,70,North America,Direct Link
+166,2025-12-18,65,Asia-Pacific,Instagram Ad
+167,2026-01-27,56,Latin America,Direct Link
+168,2025-08-22,62,Asia-Pacific,Instagram Ad
+169,2025-03-29,70,Latin America,Direct Link
+170,2025-12-09,60,Europe,Instagram Ad
+171,2026-03-27,70,Latin America,Email Campaign
+172,2025-09-14,52,North America,Instagram Ad
+173,2025-01-26,55,North America,Instagram Ad
+174,2025-04-23,56,Latin America,Google Search
+175,2025-04-25,70,Asia-Pacific,Referral
+176,2025-10-24,69,North America,Instagram Ad
+177,2026-03-23,23,Latin America,Facebook Ad
+178,2025-12-04,22,North America,Instagram Ad
+179,2025-02-05,56,North America,Facebook Ad
+180,2025-07-26,59,Europe,Instagram Ad
+181,2026-04-01,27,Latin America,Google Search
+182,2025-10-26,39,Europe,Referral
+183,2025-11-02,19,Asia-Pacific,Direct Link
+184,2025-04-28,45,Europe,Direct Link
+185,2025-07-02,32,Asia-Pacific,Email Campaign
+186,2025-04-12,69,Asia-Pacific,Instagram Ad
+187,2025-05-27,27,Latin America,Google Search
+188,2025-05-03,55,North America,Google Search
+189,2025-06-28,70,Asia-Pacific,Direct Link
+190,2025-03-20,71,North America,Direct Link
+191,2026-02-25,37,Europe,Facebook Ad
+192,2025-04-18,43,Asia-Pacific,Referral
+193,2025-04-20,45,North America,Email Campaign
+194,2026-03-31,71,Asia-Pacific,Email Campaign
+195,2025-12-15,22,Latin America,Instagram Ad
+196,2026-01-28,26,Latin America,Facebook Ad
+197,2025-10-17,66,Asia-Pacific,Email Campaign
+198,2025-09-10,21,North America,Google Search
+199,2025-03-13,72,Latin America,Direct Link
+200,2025-02-19,48,North America,Instagram Ad
+201,2025-05-09,31,Europe,Google Search
+202,2026-02-06,75,Latin America,Instagram Ad
+203,2025-05-07,23,North America,Facebook Ad
+204,2025-12-19,48,Asia-Pacific,Email Campaign
+205,2025-01-11,60,North America,Referral
+206,2025-01-18,29,Asia-Pacific,Direct Link
+207,2025-03-03,35,Asia-Pacific,Instagram Ad
+208,2026-01-24,25,Latin America,Email Campaign
+209,2025-01-28,34,Asia-Pacific,Email Campaign
+210,2025-01-11,62,North America,Facebook Ad
+211,2025-06-28,46,Latin America,Instagram Ad
+212,2025-08-09,49,Latin America,Email Campaign
+213,2025-12-18,75,Asia-Pacific,Google Search
+214,2026-02-02,46,Latin America,Direct Link
+215,2025-05-22,65,North America,Direct Link
+216,2025-12-30,51,Europe,Direct Link
+217,2025-05-24,53,Latin America,Google Search
+218,2025-08-01,24,Europe,Facebook Ad
+219,2025-10-01,75,Latin America,Email Campaign
+220,2025-11-14,48,Latin America,Google Search
+221,2025-11-02,39,Latin America,Referral
+222,2025-06-06,19,Latin America,Instagram Ad
+223,2025-01-12,53,Asia-Pacific,Instagram Ad
+224,2026-01-28,61,Asia-Pacific,Referral
+225,2025-07-29,75,Latin America,Email Campaign
+226,2026-03-31,25,Asia-Pacific,Instagram Ad
+227,2025-03-09,53,Latin America,Facebook Ad
+228,2025-05-11,53,Latin America,Google Search
+229,2025-01-13,71,Europe,Facebook Ad
+230,2025-09-28,21,Latin America,Google Search
+231,2025-03-23,36,Europe,Email Campaign
+232,2025-05-05,46,Europe,Referral
+233,2025-01-07,55,Europe,Google Search
+234,2025-08-07,55,Asia-Pacific,Direct Link
+235,2025-06-14,33,North America,Facebook Ad
+236,2025-11-02,74,North America,Facebook Ad
+237,2026-04-02,20,Asia-Pacific,Direct Link
+238,2025-07-17,57,Europe,Referral
+239,2025-04-15,33,Asia-Pacific,Google Search
+240,2025-11-11,64,Asia-Pacific,Direct Link
+241,2026-02-06,24,Latin America,Instagram Ad
+242,2025-11-19,26,Latin America,Direct Link
+243,2025-05-26,31,North America,Google Search
+244,2026-03-16,18,Latin America,Google Search
+245,2025-01-18,64,Europe,Facebook Ad
+246,2025-05-22,48,Asia-Pacific,Email Campaign
+247,2025-05-23,64,Latin America,Direct Link
+248,2026-01-19,60,Asia-Pacific,Referral
+249,2025-06-05,31,Asia-Pacific,Facebook Ad
+250,2026-02-25,60,North America,Google Search
+251,2026-01-10,70,North America,Email Campaign
+252,2025-02-11,44,Europe,Facebook Ad
+253,2025-10-31,60,North America,Direct Link
+254,2025-07-13,73,North America,Email Campaign
+255,2025-05-16,33,North America,Email Campaign
+256,2025-02-03,26,Asia-Pacific,Google Search
+257,2025-11-21,47,Europe,Facebook Ad
+258,2025-09-07,69,Europe,Referral
+259,2025-01-14,74,Asia-Pacific,Google Search
+260,2026-01-11,75,Latin America,Instagram Ad
+261,2026-02-16,56,North America,Referral
+262,2026-03-07,18,Latin America,Referral
+263,2026-02-23,18,North America,Email Campaign
+264,2025-04-04,18,North America,Direct Link
+265,2025-12-07,58,Latin America,Google Search
+266,2025-08-16,73,Europe,Google Search
+267,2026-02-12,34,North America,Referral
+268,2026-03-04,42,Asia-Pacific,Instagram Ad
+269,2025-04-06,75,Latin America,Google Search
+270,2026-03-30,58,Latin America,Facebook Ad
+271,2025-03-08,20,Asia-Pacific,Instagram Ad
+272,2026-03-30,74,Latin America,Email Campaign
+273,2025-05-03,25,North America,Facebook Ad
+274,2025-04-24,42,Latin America,Email Campaign
+275,2025-09-12,24,Latin America,Instagram Ad
+276,2025-02-18,19,North America,Google Search
+277,2026-01-24,28,Asia-Pacific,Google Search
+278,2025-04-05,62,Europe,Email Campaign
+279,2025-05-09,57,North America,Facebook Ad
+280,2025-06-30,42,Europe,Direct Link
+281,2025-07-12,59,Latin America,Referral
+282,2025-09-05,50,Asia-Pacific,Facebook Ad
+283,2026-02-20,24,Latin America,Google Search
+284,2025-04-21,60,Europe,Google Search
+285,2025-08-01,52,Asia-Pacific,Google Search
+286,2025-03-23,21,Europe,Facebook Ad
+287,2026-03-01,57,Latin America,Referral
+288,2026-01-21,20,North America,Referral
+289,2025-09-22,49,North America,Direct Link
+290,2025-12-10,44,Europe,Email Campaign
+291,2025-04-03,35,North America,Direct Link
+292,2026-03-06,67,Europe,Referral
+293,2025-07-09,43,Europe,Referral
+294,2025-12-10,32,Latin America,Referral
+295,2025-01-28,57,North America,Direct Link
+296,2025-02-08,55,North America,Instagram Ad
+297,2025-09-15,37,Latin America,Google Search
+298,2026-01-24,28,Europe,Email Campaign
+299,2026-01-02,73,Asia-Pacific,Instagram Ad
+300,2025-04-04,38,Latin America,Google Search
+301,2025-09-09,28,North America,Instagram Ad
+302,2025-10-12,69,Asia-Pacific,Facebook Ad
+303,2026-01-19,37,North America,Facebook Ad
+304,2025-01-08,50,Latin America,Email Campaign
+305,2025-12-12,19,North America,Facebook Ad
+306,2025-10-19,22,Europe,Google Search
+307,2026-01-02,48,Europe,Email Campaign
+308,2025-09-30,60,Asia-Pacific,Direct Link
+309,2025-07-22,73,North America,Referral
+310,2025-09-04,50,Asia-Pacific,Referral
+311,2025-02-17,42,Asia-Pacific,Facebook Ad
+312,2025-11-15,35,Asia-Pacific,Instagram Ad
+313,2025-01-31,53,North America,Referral
+314,2025-05-05,40,North America,Facebook Ad
+315,2026-03-04,40,North America,Email Campaign
+316,2025-07-18,20,Latin America,Facebook Ad
+317,2025-08-21,31,Latin America,Email Campaign
+318,2025-07-14,24,North America,Referral
+319,2025-07-23,39,North America,Facebook Ad
+320,2025-10-09,24,Latin America,Email Campaign
+321,2025-09-23,25,Asia-Pacific,Email Campaign
+322,2025-08-19,66,North America,Facebook Ad
+323,2025-12-26,36,Asia-Pacific,Facebook Ad
+324,2025-05-26,59,Asia-Pacific,Facebook Ad
+325,2026-01-10,71,Latin America,Referral
+326,2025-04-22,27,North America,Instagram Ad
+327,2025-05-07,54,North America,Facebook Ad
+328,2025-06-05,37,Asia-Pacific,Referral
+329,2026-03-17,50,Europe,Instagram Ad
+330,2025-11-24,26,Latin America,Direct Link
+331,2026-02-26,68,North America,Email Campaign
+332,2025-10-05,44,North America,Google Search
+333,2025-07-28,63,Latin America,Instagram Ad
+334,2025-07-16,69,Europe,Instagram Ad
+335,2025-07-07,63,Europe,Direct Link
+336,2025-01-08,66,North America,Referral
+337,2025-05-11,44,Europe,Direct Link
+338,2025-01-21,46,Europe,Facebook Ad
+339,2025-08-24,18,Europe,Referral
+340,2025-05-03,69,Europe,Facebook Ad
+341,2025-12-16,49,North America,Direct Link
+342,2025-10-11,35,Asia-Pacific,Referral
+343,2025-06-11,55,Asia-Pacific,Facebook Ad
+344,2026-01-03,62,Latin America,Referral
+345,2025-08-13,26,Europe,Referral
+346,2025-12-12,48,Europe,Google Search
+347,2025-10-24,60,Latin America,Direct Link
+348,2026-02-05,53,Latin America,Email Campaign
+349,2025-11-22,34,Europe,Referral
+350,2025-05-24,67,Asia-Pacific,Referral
+351,2026-03-09,46,Latin America,Direct Link
+352,2025-03-16,30,Asia-Pacific,Google Search
+353,2025-08-10,73,Europe,Google Search
+354,2025-08-25,75,North America,Referral
+355,2025-11-08,58,Latin America,Direct Link
+356,2025-07-31,63,Europe,Referral
+357,2025-11-10,31,Europe,Email Campaign
+358,2026-03-11,59,Europe,Referral
+359,2025-01-02,47,Latin America,Facebook Ad
+360,2025-09-26,75,Asia-Pacific,Direct Link
+361,2025-08-16,47,Europe,Google Search
+362,2025-08-11,33,Latin America,Email Campaign
+363,2025-08-10,48,Asia-Pacific,Google Search
+364,2025-09-10,37,Europe,Direct Link
+365,2026-03-27,36,Latin America,Email Campaign
+366,2025-11-11,39,North America,Direct Link
+367,2025-07-16,53,Latin America,Instagram Ad
+368,2025-05-04,74,Asia-Pacific,Instagram Ad
+369,2025-11-21,22,Latin America,Direct Link
+370,2025-08-09,58,Europe,Google Search
+371,2025-09-13,35,Asia-Pacific,Email Campaign
+372,2025-10-12,70,Latin America,Instagram Ad
+373,2025-09-10,59,Europe,Facebook Ad
+374,2025-01-17,70,Europe,Referral
+375,2026-03-10,22,Asia-Pacific,Direct Link
+376,2026-02-26,61,Latin America,Referral
+377,2025-11-24,29,Latin America,Facebook Ad
+378,2026-03-18,55,North America,Email Campaign
+379,2025-04-16,23,North America,Google Search
+380,2025-04-07,44,Latin America,Facebook Ad
+381,2026-01-25,47,North America,Instagram Ad
+382,2025-08-19,61,Europe,Instagram Ad
+383,2025-09-14,54,Europe,Google Search
+384,2025-04-27,43,Asia-Pacific,Email Campaign
+385,2025-12-01,31,Latin America,Email Campaign
+386,2025-08-25,43,Asia-Pacific,Referral
+387,2025-01-15,54,North America,Direct Link
+388,2026-03-26,45,North America,Google Search
+389,2026-03-04,44,Europe,Facebook Ad
+390,2025-09-03,40,Europe,Google Search
+391,2025-10-03,70,North America,Facebook Ad
+392,2025-12-30,49,North America,Direct Link
+393,2026-02-17,21,Latin America,Instagram Ad
+394,2026-03-31,71,Latin America,Google Search
+395,2026-02-26,63,Asia-Pacific,Email Campaign
+396,2026-01-11,47,Europe,Instagram Ad
+397,2025-02-19,31,North America,Facebook Ad
+398,2025-05-17,67,Europe,Facebook Ad
+399,2025-12-28,70,Asia-Pacific,Direct Link
+400,2025-05-25,37,Europe,Referral
+401,2025-01-24,45,Europe,Referral
+402,2025-11-14,64,Latin America,Instagram Ad
+403,2025-03-21,29,Latin America,Instagram Ad
+404,2025-03-03,46,Latin America,Email Campaign
+405,2025-09-06,63,Europe,Facebook Ad
+406,2025-12-22,49,North America,Referral
+407,2025-04-26,73,Asia-Pacific,Google Search
+408,2025-10-26,54,Latin America,Direct Link
+409,2025-09-16,46,Latin America,Facebook Ad
+410,2025-06-29,49,Asia-Pacific,Direct Link
+411,2025-03-30,68,Latin America,Instagram Ad
+412,2025-04-08,27,Europe,Instagram Ad
+413,2025-12-18,67,North America,Google Search
+414,2025-12-22,36,Asia-Pacific,Facebook Ad
+415,2025-03-10,54,Asia-Pacific,Direct Link
+416,2025-01-22,25,Asia-Pacific,Facebook Ad
+417,2025-12-03,71,North America,Facebook Ad
+418,2025-09-19,37,Asia-Pacific,Referral
+419,2025-11-05,70,Asia-Pacific,Instagram Ad
+420,2025-09-24,72,Latin America,Referral
+421,2025-12-05,22,Asia-Pacific,Instagram Ad
+422,2025-12-09,55,Europe,Email Campaign
+423,2025-04-29,23,Europe,Referral
+424,2025-06-19,52,Latin America,Direct Link
+425,2025-05-23,28,Asia-Pacific,Referral
+426,2025-09-29,64,Latin America,Instagram Ad
+427,2026-03-03,49,Europe,Email Campaign
+428,2025-12-18,32,North America,Facebook Ad
+429,2025-01-31,47,Europe,Google Search
+430,2025-04-07,71,Europe,Facebook Ad
+431,2025-08-31,23,North America,Facebook Ad
+432,2025-03-06,67,North America,Email Campaign
+433,2025-11-03,67,Europe,Google Search
+434,2025-06-02,18,Europe,Email Campaign
+435,2026-03-19,69,North America,Referral
+436,2025-01-21,45,Asia-Pacific,Facebook Ad
+437,2025-11-01,61,Asia-Pacific,Instagram Ad
+438,2025-04-15,50,Europe,Facebook Ad
+439,2025-05-04,57,Europe,Google Search
+440,2025-05-01,27,Asia-Pacific,Referral
+441,2025-08-25,24,North America,Facebook Ad
+442,2025-12-04,74,Asia-Pacific,Email Campaign
+443,2025-07-13,51,Latin America,Referral
+444,2025-09-21,42,North America,Direct Link
+445,2025-10-19,55,North America,Email Campaign
+446,2025-01-01,27,Asia-Pacific,Instagram Ad
+447,2025-01-09,25,Latin America,Instagram Ad
+448,2025-06-13,66,Asia-Pacific,Direct Link
+449,2025-01-24,38,Europe,Facebook Ad
+450,2025-11-26,52,North America,Instagram Ad
+451,2025-05-05,33,Europe,Email Campaign
+452,2025-01-05,24,Asia-Pacific,Email Campaign
+453,2025-01-31,68,Europe,Facebook Ad
+454,2025-09-23,19,Latin America,Facebook Ad
+455,2026-03-06,31,Latin America,Instagram Ad
+456,2025-10-08,54,Latin America,Email Campaign
+457,2025-03-03,66,Europe,Email Campaign
+458,2025-01-15,22,Latin America,Email Campaign
+459,2026-02-11,55,Asia-Pacific,Referral
+460,2025-08-19,46,Europe,Direct Link
+461,2025-11-02,31,Latin America,Email Campaign
+462,2025-06-10,63,Asia-Pacific,Referral
+463,2025-01-15,58,North America,Email Campaign
+464,2025-10-02,30,Latin America,Facebook Ad
+465,2025-04-28,20,Latin America,Email Campaign
+466,2025-04-25,59,Europe,Direct Link
+467,2026-01-17,54,Asia-Pacific,Facebook Ad
+468,2025-03-10,51,Latin America,Email Campaign
+469,2025-11-15,39,North America,Instagram Ad
+470,2026-01-27,22,Asia-Pacific,Google Search
+471,2025-12-05,21,Europe,Instagram Ad
+472,2025-05-26,56,Europe,Referral
+473,2025-10-17,53,Latin America,Email Campaign
+474,2025-06-28,37,Asia-Pacific,Email Campaign
+475,2026-03-04,46,Latin America,Email Campaign
+476,2025-08-14,24,Latin America,Direct Link
+477,2026-01-23,41,Europe,Referral
+478,2025-09-28,57,Asia-Pacific,Google Search
+479,2025-01-22,55,Latin America,Facebook Ad
+480,2025-10-25,46,North America,Referral
+481,2025-07-08,33,Asia-Pacific,Facebook Ad
+482,2025-02-11,36,Europe,Google Search
+483,2025-10-02,69,North America,Email Campaign
+484,2025-10-04,34,North America,Google Search
+485,2026-01-24,46,North America,Direct Link
+486,2025-06-13,40,Latin America,Facebook Ad
+487,2025-04-26,20,North America,Instagram Ad
+488,2025-03-19,66,Europe,Facebook Ad
+489,2025-01-19,32,North America,Facebook Ad
+490,2025-12-15,35,Europe,Referral
+491,2025-12-01,26,Asia-Pacific,Instagram Ad
+492,2025-04-09,21,North America,Referral
+493,2025-09-12,20,North America,Facebook Ad
+494,2025-06-19,28,Asia-Pacific,Email Campaign
+495,2026-02-23,65,Asia-Pacific,Facebook Ad
+496,2025-07-03,53,Latin America,Email Campaign
+497,2025-04-24,66,Latin America,Instagram Ad
+498,2026-03-31,67,North America,Referral
+499,2025-03-21,49,Latin America,Email Campaign
+500,2025-01-25,32,Europe,Email Campaign
+501,2025-01-26,74,Latin America,Email Campaign
+502,2025-10-26,70,Europe,Instagram Ad
+503,2026-02-27,67,Asia-Pacific,Referral
+504,2025-02-17,26,North America,Facebook Ad
+505,2025-09-18,44,Asia-Pacific,Email Campaign
+506,2026-02-03,58,Latin America,Direct Link
+507,2025-03-09,49,Asia-Pacific,Email Campaign
+508,2025-03-01,50,North America,Google Search
+509,2025-03-08,53,Latin America,Instagram Ad
+510,2026-03-11,21,Asia-Pacific,Facebook Ad
+511,2025-03-07,24,Asia-Pacific,Instagram Ad
+512,2025-09-02,19,Latin America,Referral
+513,2025-05-15,21,Asia-Pacific,Email Campaign
+514,2025-06-02,30,Europe,Referral
+515,2025-12-04,24,North America,Referral
+516,2025-02-09,50,Latin America,Email Campaign
+517,2025-03-29,72,North America,Google Search
+518,2026-03-16,65,Asia-Pacific,Google Search
+519,2025-02-15,61,Europe,Email Campaign
+520,2025-03-17,23,Europe,Email Campaign
+521,2025-07-14,50,Latin America,Referral
+522,2026-03-29,63,North America,Direct Link
+523,2025-04-12,26,North America,Email Campaign
+524,2025-10-11,53,Europe,Direct Link
+525,2025-03-26,47,North America,Email Campaign
+526,2025-02-02,53,Asia-Pacific,Referral
+527,2025-06-24,43,North America,Referral
+528,2026-02-22,41,Europe,Direct Link
+529,2025-12-27,73,Asia-Pacific,Instagram Ad
+530,2025-11-02,42,Asia-Pacific,Direct Link
+531,2026-02-18,40,North America,Google Search
+532,2026-03-31,27,Asia-Pacific,Direct Link
+533,2025-10-30,28,Europe,Email Campaign
+534,2025-04-24,49,Asia-Pacific,Direct Link
+535,2025-11-09,43,Asia-Pacific,Direct Link
+536,2025-01-14,72,Asia-Pacific,Facebook Ad
+537,2026-01-14,73,North America,Email Campaign
+538,2025-07-30,74,Asia-Pacific,Facebook Ad
+539,2026-03-01,41,Asia-Pacific,Referral
+540,2025-03-08,47,Latin America,Referral
+541,2026-03-12,70,Latin America,Referral
+542,2025-10-08,55,Europe,Email Campaign
+543,2025-09-12,44,Europe,Instagram Ad
+544,2025-04-25,40,North America,Instagram Ad
+545,2025-06-04,69,Europe,Referral
+546,2025-11-14,32,North America,Facebook Ad
+547,2025-02-05,46,North America,Instagram Ad
+548,2025-02-25,56,Latin America,Google Search
+549,2025-11-18,42,Europe,Email Campaign
+550,2025-12-04,65,North America,Instagram Ad
+551,2025-10-23,75,Europe,Google Search
+552,2026-03-25,48,Asia-Pacific,Facebook Ad
+553,2025-11-02,58,Latin America,Direct Link
+554,2025-11-09,72,Europe,Facebook Ad
+555,2025-05-29,52,Latin America,Email Campaign
+556,2025-07-19,67,North America,Google Search
+557,2026-02-07,19,North America,Direct Link
+558,2025-02-08,34,Europe,Referral
+559,2026-02-23,58,Latin America,Facebook Ad
+560,2025-01-15,50,North America,Google Search
+561,2025-08-21,70,North America,Google Search
+562,2026-02-14,60,Asia-Pacific,Google Search
+563,2025-04-15,69,Europe,Direct Link
+564,2025-08-27,65,Europe,Email Campaign
+565,2025-06-26,69,Latin America,Referral
+566,2025-02-22,19,North America,Facebook Ad
+567,2025-04-27,47,North America,Referral
+568,2025-05-17,29,Asia-Pacific,Referral
+569,2025-07-23,75,Asia-Pacific,Google Search
+570,2025-11-06,63,Europe,Referral
+571,2025-06-02,74,North America,Direct Link
+572,2025-05-17,67,Asia-Pacific,Email Campaign
+573,2025-08-02,69,Europe,Google Search
+574,2025-12-14,56,Asia-Pacific,Google Search
+575,2025-06-04,23,North America,Instagram Ad
+576,2025-01-20,65,North America,Google Search
+577,2025-05-14,32,Europe,Referral
+578,2025-11-12,36,Asia-Pacific,Facebook Ad
+579,2025-10-15,75,North America,Referral
+580,2025-12-14,55,North America,Instagram Ad
+581,2025-07-17,33,Latin America,Facebook Ad
+582,2025-04-26,68,Asia-Pacific,Google Search
+583,2025-08-03,68,Latin America,Referral
+584,2025-10-30,25,Asia-Pacific,Referral
+585,2025-08-08,27,North America,Direct Link
+586,2025-09-06,31,North America,Referral
+587,2025-05-11,74,Latin America,Referral
+588,2025-04-05,48,Latin America,Google Search
+589,2025-08-31,45,Latin America,Referral
+590,2026-01-15,18,Asia-Pacific,Referral
+591,2026-02-21,26,North America,Google Search
+592,2025-10-28,50,North America,Direct Link
+593,2026-01-19,54,North America,Facebook Ad
+594,2025-02-05,32,Europe,Google Search
+595,2025-03-03,68,Latin America,Instagram Ad
+596,2025-04-13,55,North America,Facebook Ad
+597,2025-12-05,37,North America,Facebook Ad
+598,2025-03-16,21,Asia-Pacific,Instagram Ad
+599,2026-03-23,37,Asia-Pacific,Google Search
+600,2025-12-19,54,Latin America,Email Campaign
+601,2025-04-20,56,Asia-Pacific,Google Search
+602,2025-08-19,57,Latin America,Google Search
+603,2025-05-25,60,North America,Direct Link
+604,2026-01-27,42,Latin America,Direct Link
+605,2025-08-14,56,Asia-Pacific,Direct Link
+606,2025-03-02,26,North America,Referral
+607,2025-08-03,74,North America,Facebook Ad
+608,2025-12-12,22,Europe,Instagram Ad
+609,2025-12-16,69,Latin America,Instagram Ad
+610,2025-07-09,36,Latin America,Email Campaign
+611,2025-11-19,36,Europe,Facebook Ad
+612,2025-07-07,31,Asia-Pacific,Facebook Ad
+613,2025-02-24,70,Asia-Pacific,Facebook Ad
+614,2025-12-08,55,Latin America,Instagram Ad
+615,2025-11-20,74,Asia-Pacific,Facebook Ad
+616,2025-10-19,38,North America,Facebook Ad
+617,2025-10-01,66,Europe,Direct Link
+618,2026-02-16,58,Latin America,Facebook Ad
+619,2026-01-06,54,Latin America,Google Search
+620,2025-11-27,24,Asia-Pacific,Referral
+621,2025-09-01,23,Asia-Pacific,Instagram Ad
+622,2025-01-13,63,Latin America,Email Campaign
+623,2025-04-08,65,Latin America,Referral
+624,2025-08-15,69,North America,Referral
+625,2026-03-12,58,Latin America,Email Campaign
+626,2025-08-07,67,Europe,Facebook Ad
+627,2025-03-23,27,North America,Facebook Ad
+628,2025-10-02,45,North America,Facebook Ad
+629,2025-07-04,39,Europe,Direct Link
+630,2025-03-31,63,Asia-Pacific,Direct Link
+631,2025-03-14,25,North America,Instagram Ad
+632,2025-06-10,72,Asia-Pacific,Google Search
+633,2026-02-05,60,Latin America,Google Search
+634,2026-03-24,43,Europe,Email Campaign
+635,2025-10-02,67,North America,Instagram Ad
+636,2025-03-30,50,Latin America,Referral
+637,2025-10-08,69,Latin America,Referral
+638,2025-12-11,62,Asia-Pacific,Instagram Ad
+639,2025-01-01,37,Asia-Pacific,Email Campaign
+640,2025-06-22,31,Latin America,Email Campaign
+641,2025-10-13,37,North America,Instagram Ad
+642,2025-12-23,27,Asia-Pacific,Referral
+643,2026-01-25,47,Latin America,Email Campaign
+644,2025-03-18,46,Latin America,Direct Link
+645,2025-11-05,34,Latin America,Google Search
+646,2025-03-21,19,North America,Instagram Ad
+647,2026-03-06,72,Latin America,Referral
+648,2025-12-01,64,North America,Google Search
+649,2025-06-23,27,North America,Instagram Ad
+650,2025-07-02,27,Europe,Google Search
+651,2025-09-01,45,North America,Google Search
+652,2025-05-12,28,Asia-Pacific,Google Search
+653,2025-07-23,64,Europe,Email Campaign
+654,2025-05-14,62,Latin America,Instagram Ad
+655,2025-01-22,39,North America,Email Campaign
+656,2025-03-15,43,Latin America,Email Campaign
+657,2025-10-12,24,North America,Google Search
+658,2026-03-26,65,North America,Instagram Ad
+659,2025-07-28,46,North America,Email Campaign
+660,2025-03-31,35,North America,Facebook Ad
+661,2025-04-26,71,North America,Google Search
+662,2025-05-21,75,Latin America,Facebook Ad
+663,2025-04-09,43,Asia-Pacific,Instagram Ad
+664,2025-10-06,45,North America,Email Campaign
+665,2025-03-13,71,Asia-Pacific,Email Campaign
+666,2026-02-24,18,Asia-Pacific,Direct Link
+667,2025-04-24,56,Latin America,Referral
+668,2025-10-28,25,North America,Facebook Ad
+669,2025-12-17,30,Europe,Referral
+670,2025-11-28,18,Europe,Referral
+671,2025-04-05,22,Asia-Pacific,Google Search
+672,2025-09-28,30,Latin America,Instagram Ad
+673,2025-01-28,18,Latin America,Direct Link
+674,2025-08-03,61,Latin America,Direct Link
+675,2025-04-25,71,Europe,Facebook Ad
+676,2026-03-14,57,North America,Direct Link
+677,2025-06-04,43,Europe,Referral
+678,2025-01-25,48,Latin America,Referral
+679,2025-02-12,48,Asia-Pacific,Email Campaign
+680,2025-03-10,41,North America,Email Campaign
+681,2025-12-29,39,Europe,Email Campaign
+682,2025-03-20,59,Asia-Pacific,Direct Link
+683,2025-03-29,26,Asia-Pacific,Facebook Ad
+684,2026-03-22,60,North America,Instagram Ad
+685,2025-07-23,24,North America,Direct Link
+686,2025-05-10,67,Asia-Pacific,Referral
+687,2025-05-07,59,Europe,Facebook Ad
+688,2025-07-28,75,Asia-Pacific,Google Search
+689,2025-03-01,39,Europe,Instagram Ad
+690,2025-05-22,75,Asia-Pacific,Referral
+691,2026-01-17,56,North America,Facebook Ad
+692,2025-12-10,29,North America,Email Campaign
+693,2026-02-08,38,Europe,Direct Link
+694,2025-07-19,27,Latin America,Google Search
+695,2025-07-29,38,Asia-Pacific,Facebook Ad
+696,2025-08-18,48,North America,Instagram Ad
+697,2025-05-08,65,Latin America,Referral
+698,2025-02-12,43,Europe,Email Campaign
+699,2025-01-19,26,Europe,Facebook Ad
+700,2025-08-11,23,Latin America,Referral
+701,2025-07-23,36,North America,Instagram Ad
+702,2025-08-27,57,Latin America,Direct Link
+703,2025-01-23,50,North America,Google Search
+704,2025-11-16,31,North America,Facebook Ad
+705,2026-02-18,37,North America,Direct Link
+706,2026-02-02,26,Latin America,Direct Link
+707,2026-01-25,60,Europe,Direct Link
+708,2025-10-17,43,North America,Referral
+709,2025-05-14,30,North America,Facebook Ad
+710,2025-05-13,33,Latin America,Email Campaign
+711,2025-06-02,75,Latin America,Direct Link
+712,2026-03-13,19,North America,Referral
+713,2025-11-28,61,Latin America,Email Campaign
+714,2026-03-10,27,Latin America,Referral
+715,2025-05-11,38,Europe,Referral
+716,2025-06-10,25,North America,Direct Link
+717,2025-03-01,33,Latin America,Facebook Ad
+718,2026-01-24,48,North America,Facebook Ad
+719,2026-03-08,51,Latin America,Facebook Ad
+720,2025-06-02,63,North America,Google Search
+721,2025-05-03,59,North America,Direct Link
+722,2025-10-22,55,Asia-Pacific,Direct Link
+723,2025-01-30,66,Latin America,Google Search
+724,2026-02-28,42,Asia-Pacific,Direct Link
+725,2025-03-04,41,Asia-Pacific,Email Campaign
+726,2025-05-16,23,North America,Referral
+727,2025-01-15,73,Europe,Instagram Ad
+728,2025-03-31,31,Latin America,Email Campaign
+729,2025-01-16,18,Latin America,Instagram Ad
+730,2025-02-21,44,Latin America,Google Search
+731,2025-06-11,54,Latin America,Direct Link
+732,2025-10-23,19,Latin America,Google Search
+733,2025-09-27,38,Europe,Google Search
+734,2025-04-21,67,North America,Instagram Ad
+735,2026-03-24,29,Europe,Referral
+736,2026-02-13,34,Asia-Pacific,Google Search
+737,2026-03-05,34,Latin America,Instagram Ad
+738,2025-02-03,53,Asia-Pacific,Facebook Ad
+739,2025-02-15,45,Europe,Referral
+740,2026-02-14,27,North America,Direct Link
+741,2025-02-04,27,Latin America,Google Search
+742,2025-11-29,55,Asia-Pacific,Google Search
+743,2025-08-16,59,North America,Google Search
+744,2025-12-03,50,Latin America,Referral
+745,2025-05-01,35,Asia-Pacific,Referral
+746,2025-06-18,34,Europe,Google Search
+747,2026-03-01,55,Latin America,Email Campaign
+748,2026-03-10,45,Asia-Pacific,Direct Link
+749,2025-07-01,71,Latin America,Direct Link
+750,2025-05-09,20,Europe,Google Search
+751,2025-05-23,67,Europe,Direct Link
+752,2025-10-19,20,North America,Direct Link
+753,2025-11-08,74,North America,Referral
+754,2025-04-28,42,Latin America,Referral
+755,2026-01-01,34,Asia-Pacific,Direct Link
+756,2025-09-24,42,Latin America,Referral
+757,2025-01-08,48,Latin America,Instagram Ad
+758,2026-03-27,46,North America,Direct Link
+759,2025-06-17,34,North America,Email Campaign
+760,2025-07-09,45,North America,Google Search
+761,2025-07-03,63,Europe,Referral
+762,2025-11-02,71,Latin America,Instagram Ad
+763,2025-05-25,61,North America,Facebook Ad
+764,2026-01-31,59,Asia-Pacific,Instagram Ad
+765,2025-11-26,73,Asia-Pacific,Referral
+766,2025-10-04,64,Europe,Email Campaign
+767,2025-09-26,19,Latin America,Referral
+768,2025-10-19,46,Latin America,Referral
+769,2026-01-18,64,Europe,Direct Link
+770,2025-07-28,31,Latin America,Email Campaign
+771,2026-03-12,67,Asia-Pacific,Instagram Ad
+772,2025-11-11,74,North America,Email Campaign
+773,2025-09-02,66,Latin America,Facebook Ad
+774,2025-12-05,23,Latin America,Email Campaign
+775,2025-07-31,29,North America,Instagram Ad
+776,2026-01-17,62,Latin America,Referral
+777,2025-03-07,63,Latin America,Referral
+778,2026-01-21,62,Asia-Pacific,Referral
+779,2025-06-10,38,Latin America,Direct Link
+780,2025-03-14,57,Asia-Pacific,Referral
+781,2025-03-18,27,North America,Referral
+782,2025-02-15,56,Asia-Pacific,Referral
+783,2025-02-05,19,Europe,Direct Link
+784,2025-07-16,30,North America,Direct Link
+785,2025-03-17,44,Asia-Pacific,Email Campaign
+786,2025-04-19,67,North America,Facebook Ad
+787,2025-12-24,52,Latin America,Referral
+788,2025-07-24,20,Latin America,Direct Link
+789,2025-05-04,27,Asia-Pacific,Direct Link
+790,2025-07-17,35,Latin America,Direct Link
+791,2025-09-15,67,Asia-Pacific,Referral
+792,2026-02-19,41,Europe,Google Search
+793,2025-07-07,27,Latin America,Referral
+794,2026-03-12,42,Asia-Pacific,Google Search
+795,2025-10-10,68,Asia-Pacific,Referral
+796,2025-06-16,75,North America,Facebook Ad
+797,2026-02-20,20,Asia-Pacific,Direct Link
+798,2025-09-17,66,North America,Instagram Ad
+799,2025-10-02,53,Europe,Referral
+800,2026-01-01,67,Europe,Instagram Ad
+801,2025-03-12,60,Europe,Referral
+802,2026-03-05,50,Latin America,Instagram Ad
+803,2025-09-22,18,North America,Referral
+804,2025-06-04,51,Latin America,Referral
+805,2025-01-03,19,Asia-Pacific,Instagram Ad
+806,2025-10-20,31,North America,Google Search
+807,2026-02-09,68,Asia-Pacific,Referral
+808,2025-05-24,49,North America,Instagram Ad
+809,2026-01-13,21,North America,Direct Link
+810,2025-10-10,65,Latin America,Facebook Ad
+811,2025-10-07,58,Asia-Pacific,Instagram Ad
+812,2025-06-05,66,North America,Email Campaign
+813,2026-03-03,68,North America,Referral
+814,2025-08-28,43,Europe,Direct Link
+815,2025-05-01,27,North America,Facebook Ad
+816,2026-03-06,37,North America,Direct Link
+817,2025-05-12,44,Europe,Referral
+818,2025-10-07,31,Asia-Pacific,Email Campaign
+819,2026-02-01,18,Latin America,Referral
+820,2025-02-11,45,Europe,Email Campaign
+821,2025-02-09,26,Latin America,Instagram Ad
+822,2026-01-22,51,Asia-Pacific,Direct Link
+823,2026-03-13,39,North America,Google Search
+824,2025-08-23,72,Europe,Referral
+825,2025-08-27,67,Europe,Facebook Ad
+826,2025-08-21,63,North America,Facebook Ad
+827,2025-08-20,24,Latin America,Email Campaign
+828,2026-02-05,61,Latin America,Facebook Ad
+829,2025-10-30,37,North America,Email Campaign
+830,2025-04-23,32,Latin America,Referral
+831,2025-05-25,21,Latin America,Instagram Ad
+832,2025-02-26,67,Asia-Pacific,Instagram Ad
+833,2025-01-30,23,Latin America,Referral
+834,2026-01-16,60,Latin America,Direct Link
+835,2025-09-12,28,North America,Facebook Ad
+836,2025-07-13,34,Europe,Instagram Ad
+837,2025-02-26,43,Latin America,Google Search
+838,2025-08-28,44,North America,Facebook Ad
+839,2026-02-08,69,Latin America,Referral
+840,2025-06-05,35,Europe,Referral
+841,2026-01-10,55,Latin America,Facebook Ad
+842,2025-01-01,23,Latin America,Direct Link
+843,2025-12-13,41,Latin America,Facebook Ad
+844,2026-02-03,64,Asia-Pacific,Email Campaign
+845,2025-03-19,73,Europe,Google Search
+846,2026-02-26,58,Asia-Pacific,Google Search
+847,2025-11-08,27,Europe,Google Search
+848,2026-04-01,73,Latin America,Referral
+849,2025-09-05,59,Europe,Referral
+850,2025-02-12,67,Latin America,Instagram Ad
+851,2026-02-10,67,North America,Direct Link
+852,2025-10-24,74,Europe,Instagram Ad
+853,2026-01-19,23,North America,Direct Link
+854,2025-09-04,61,Asia-Pacific,Instagram Ad
+855,2025-04-29,45,Europe,Referral
+856,2025-12-31,36,Europe,Direct Link
+857,2025-01-13,60,Latin America,Facebook Ad
+858,2025-10-16,36,Asia-Pacific,Instagram Ad
+859,2025-01-28,46,Europe,Facebook Ad
+860,2026-03-13,20,Asia-Pacific,Google Search
+861,2025-11-01,64,North America,Referral
+862,2025-08-12,20,Asia-Pacific,Referral
+863,2025-02-05,75,Asia-Pacific,Referral
+864,2025-05-24,74,Latin America,Referral
+865,2026-03-10,54,Europe,Facebook Ad
+866,2025-03-21,49,North America,Google Search
+867,2026-02-02,63,Asia-Pacific,Facebook Ad
+868,2025-05-27,23,North America,Email Campaign
+869,2025-09-15,20,Asia-Pacific,Direct Link
+870,2025-11-01,60,Latin America,Referral
+871,2026-02-03,72,Asia-Pacific,Direct Link
+872,2025-12-26,36,Asia-Pacific,Instagram Ad
+873,2025-01-10,40,Latin America,Direct Link
+874,2025-10-17,25,Asia-Pacific,Instagram Ad
+875,2025-01-05,51,North America,Referral
+876,2025-02-05,64,North America,Referral
+877,2026-01-25,22,Latin America,Instagram Ad
+878,2025-01-10,68,Latin America,Email Campaign
+879,2025-06-26,69,North America,Direct Link
+880,2025-08-21,31,Latin America,Direct Link
+881,2025-02-17,50,Latin America,Facebook Ad
+882,2025-08-17,55,Asia-Pacific,Instagram Ad
+883,2025-02-09,21,Europe,Facebook Ad
+884,2026-02-09,69,Latin America,Google Search
+885,2025-04-12,34,Latin America,Instagram Ad
+886,2025-02-01,31,Asia-Pacific,Facebook Ad
+887,2025-10-17,48,Europe,Google Search
+888,2026-01-22,36,Latin America,Facebook Ad
+889,2025-01-05,39,Asia-Pacific,Facebook Ad
+890,2025-02-07,60,Asia-Pacific,Email Campaign
+891,2025-04-06,73,Latin America,Google Search
+892,2026-01-15,55,Asia-Pacific,Instagram Ad
+893,2025-04-13,41,Asia-Pacific,Instagram Ad
+894,2026-03-22,54,Asia-Pacific,Instagram Ad
+895,2025-08-11,65,Latin America,Google Search
+896,2025-04-21,57,Latin America,Facebook Ad
+897,2026-01-31,62,North America,Email Campaign
+898,2025-10-04,57,Asia-Pacific,Instagram Ad
+899,2025-09-07,62,Latin America,Facebook Ad
+900,2026-01-05,47,Latin America,Direct Link
+901,2025-08-13,65,Asia-Pacific,Direct Link
+902,2025-08-12,45,Asia-Pacific,Referral
+903,2025-02-16,26,Europe,Email Campaign
+904,2025-08-14,54,Asia-Pacific,Referral
+905,2025-02-07,27,Latin America,Google Search
+906,2025-12-25,44,Asia-Pacific,Instagram Ad
+907,2025-10-10,31,Latin America,Google Search
+908,2025-03-04,35,Europe,Instagram Ad
+909,2025-06-03,65,Europe,Google Search
+910,2026-01-08,54,North America,Referral
+911,2026-03-23,66,Europe,Email Campaign
+912,2025-06-08,68,Latin America,Facebook Ad
+913,2025-03-21,49,North America,Direct Link
+914,2025-02-17,23,Latin America,Email Campaign
+915,2025-12-15,28,North America,Direct Link
+916,2025-11-01,60,Latin America,Email Campaign
+917,2025-02-26,45,North America,Direct Link
+918,2026-01-17,41,Asia-Pacific,Direct Link
+919,2025-06-02,64,Latin America,Direct Link
+920,2025-11-26,53,Asia-Pacific,Google Search
+921,2025-04-11,65,North America,Email Campaign
+922,2025-03-28,58,Latin America,Facebook Ad
+923,2026-02-14,41,Asia-Pacific,Google Search
+924,2025-03-25,71,Latin America,Instagram Ad
+925,2026-03-01,70,Europe,Facebook Ad
+926,2025-11-30,67,Asia-Pacific,Facebook Ad
+927,2025-01-27,18,North America,Referral
+928,2025-06-17,57,Latin America,Facebook Ad
+929,2025-04-19,62,North America,Facebook Ad
+930,2025-10-04,63,Europe,Facebook Ad
+931,2026-01-17,72,North America,Email Campaign
+932,2026-03-29,65,Latin America,Instagram Ad
+933,2026-01-07,48,Latin America,Instagram Ad
+934,2025-05-26,47,Latin America,Facebook Ad
+935,2025-04-05,48,Latin America,Instagram Ad
+936,2026-02-02,69,Latin America,Facebook Ad
+937,2025-09-04,59,Latin America,Google Search
+938,2025-12-03,69,Latin America,Direct Link
+939,2025-08-12,37,North America,Email Campaign
+940,2025-07-12,49,North America,Email Campaign
+941,2025-01-14,60,Asia-Pacific,Direct Link
+942,2025-10-03,22,North America,Google Search
+943,2026-03-31,28,Asia-Pacific,Instagram Ad
+944,2025-02-24,52,Europe,Google Search
+945,2025-02-25,57,Europe,Email Campaign
+946,2025-03-02,57,Asia-Pacific,Google Search
+947,2025-06-25,69,North America,Email Campaign
+948,2025-09-28,34,Europe,Facebook Ad
+949,2025-06-19,33,Europe,Direct Link
+950,2025-08-24,49,Europe,Referral
+951,2026-02-02,43,Europe,Direct Link
+952,2025-04-24,19,Latin America,Instagram Ad
+953,2025-06-27,40,North America,Direct Link
+954,2025-06-30,57,Latin America,Referral
+955,2025-07-04,31,Latin America,Instagram Ad
+956,2025-01-10,73,Latin America,Email Campaign
+957,2026-04-01,52,Asia-Pacific,Referral
+958,2025-05-21,40,North America,Facebook Ad
+959,2025-01-18,49,Asia-Pacific,Instagram Ad
+960,2025-10-16,64,Asia-Pacific,Instagram Ad
+961,2025-08-13,39,North America,Referral
+962,2025-10-20,64,Europe,Instagram Ad
+963,2025-03-30,48,Europe,Email Campaign
+964,2026-03-08,44,Asia-Pacific,Facebook Ad
+965,2025-12-05,25,Europe,Referral
+966,2025-01-04,51,Asia-Pacific,Facebook Ad
+967,2025-10-08,62,Latin America,Email Campaign
+968,2025-08-26,43,North America,Google Search
+969,2025-03-11,31,Asia-Pacific,Instagram Ad
+970,2025-07-08,20,Latin America,Direct Link
+971,2025-11-14,67,Latin America,Referral
+972,2026-01-19,34,Latin America,Referral
+973,2025-09-10,43,Asia-Pacific,Facebook Ad
+974,2025-04-11,74,Latin America,Direct Link
+975,2025-03-29,60,Asia-Pacific,Direct Link
+976,2025-10-07,60,Latin America,Google Search
+977,2026-03-30,44,Latin America,Google Search
+978,2025-09-10,25,Asia-Pacific,Email Campaign
+979,2025-02-21,73,North America,Google Search
+980,2025-09-20,41,Asia-Pacific,Facebook Ad
+981,2025-05-03,49,North America,Google Search
+982,2026-03-07,41,Asia-Pacific,Direct Link
+983,2026-03-07,63,Latin America,Instagram Ad
+984,2025-08-18,67,Latin America,Referral
+985,2026-02-02,32,North America,Google Search
+986,2025-11-02,40,North America,Facebook Ad
+987,2025-03-12,64,Asia-Pacific,Instagram Ad
+988,2025-07-20,19,Europe,Referral
+989,2025-09-21,37,Latin America,Referral
+990,2025-03-21,27,North America,Facebook Ad
+991,2025-05-18,23,Asia-Pacific,Instagram Ad
+992,2025-02-19,46,Asia-Pacific,Google Search
+993,2026-02-19,33,Asia-Pacific,Instagram Ad
+994,2025-05-12,66,North America,Facebook Ad
+995,2025-07-02,45,Asia-Pacific,Direct Link
+996,2025-09-14,44,North America,Referral
+997,2025-08-16,52,Asia-Pacific,Email Campaign
+998,2025-07-10,75,Asia-Pacific,Referral
+999,2025-05-29,28,Latin America,Instagram Ad
+1000,2025-08-06,45,North America,Referral

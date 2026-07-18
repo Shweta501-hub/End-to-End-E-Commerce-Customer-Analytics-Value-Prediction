@@ -1,0 +1,51 @@
+product_id,product_name,category,price,cost
+1,Smartphone,Electronics,465.94,239.22
+2,Laptop,Electronics,15.91,8.69
+3,Wireless Earbuds,Electronics,414.71,186.1
+4,Smartwatch,Electronics,600.54,347.03
+5,Bluetooth Speaker,Electronics,421.71,174.25
+6,Tablet,Electronics,91.52,37.99
+7,Charger,Electronics,607.15,276.21
+8,HDMI Cable,Electronics,785.96,451.51
+9,Power Bank,Electronics,68.23,40.73
+10,Monitor,Electronics,631.18,345.42
+11,T-Shirt,Apparel,792.78,449.16
+12,Jeans,Apparel,207.76,98.05
+13,Hoodie,Apparel,779.74,316.9
+14,Jacket,Apparel,796.41,402.92
+15,Sneakers,Apparel,645.47,278.56
+16,Socks,Apparel,123.03,59.28
+17,Cap,Apparel,537.5,293.75
+18,Dress,Apparel,563.05,255.67
+19,Skirt,Apparel,578.53,306.11
+20,Belt,Apparel,270.47,157.36
+21,Blender,Home & Kitchen,223.49,114.58
+22,Coffee Maker,Home & Kitchen,466.05,250.54
+23,Air Fryer,Home & Kitchen,365.58,208.71
+24,Toaster,Home & Kitchen,625.05,372.16
+25,Cookware Set,Home & Kitchen,670.68,269.12
+26,Knife Set,Home & Kitchen,584.12,312.71
+27,Dinnerware,Home & Kitchen,707.76,336.13
+28,Vacuum Cleaner,Home & Kitchen,560.0,319.06
+29,Desk Lamp,Home & Kitchen,619.47,318.12
+30,Storage Bins,Home & Kitchen,566.48,253.53
+31,Fiction Novel,Books,362.11,179.68
+32,Sci-Fi Trilogy,Books,41.85,17.92
+33,Biography,Books,564.13,331.41
+34,History Book,Books,375.85,225.26
+35,Self-Help Guide,Books,562.97,265.61
+36,Cookbook,Books,127.23,61.03
+37,Mystery Thriller,Books,255.27,133.53
+38,Poetry Collection,Books,625.69,315.24
+39,Business Strategy,Books,22.96,10.97
+40,Children's Book,Books,11.32,5.44
+41,Moisturizer,Beauty,582.42,249.36
+42,Sunscreen,Beauty,52.69,29.89
+43,Face Wash,Beauty,34.39,19.15
+44,Shampoo,Beauty,375.48,161.52
+45,Conditioner,Beauty,367.04,201.2
+46,Lip Balm,Beauty,500.59,286.39
+47,Perfume,Beauty,574.13,278.71
+48,Mascara,Beauty,211.59,122.51
+49,Foundation,Beauty,283.23,138.42
+50,Eye Palette,Beauty,537.63,275.24

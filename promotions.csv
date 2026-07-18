@@ -1,0 +1,6 @@
+promotion_id,promo_name,discount_pct
+1,No Promo,0.0
+2,WELCOME10,0.1
+3,SUMMER20,0.2
+4,FLASH30,0.3
+5,VIP15,0.15
